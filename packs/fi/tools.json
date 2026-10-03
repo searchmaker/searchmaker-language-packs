@@ -1,0 +1,3303 @@
+{
+ "format": 1,
+ "lang": "fi",
+ "vertical": "tools",
+ "version": "2026-10-03",
+ "license": "CC-BY-4.0",
+ "source": "searchmaker-language-packs",
+ "generator": {
+  "models": [
+   "chatgpt"
+  ],
+  "prompt_version": [
+   "2"
+  ],
+  "passes": 1,
+  "thresholds": {
+   "min_agreement": 0.66,
+   "min_conf": 0.6,
+   "min_critic": 0.67
+  },
+  "critic": true
+ },
+ "review": {
+  "native_speaker_checked": false,
+  "note": "Generated data. Review before shipping."
+ },
+ "dropped": {
+  "denylist": 7,
+  "critic": 10,
+  "identical": 7,
+  "broader": 6,
+  "too_long": 1
+ },
+ "pairs": [
+  {
+   "a": "hakaspistooli",
+   "b": "sinkilapistooli",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 1.0,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "hitsauskone",
+   "b": "hitsauslaite",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 1.0,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "ilmakompressori",
+   "b": "paineilmakompressori",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 1.0,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "kasisirkkeli",
+   "b": "pyorosaha",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 1.0,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "naulain",
+   "b": "naulapyssy",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 1.0,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "ruuvain",
+   "b": "ruuvinvaannin",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 1.0,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "vatupassi",
+   "b": "vesivaaka",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 1.0,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "kuviosaha",
+   "b": "pistosaha",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.94,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "mittanauha",
+   "b": "rullamitta",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.94,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "akku hoyla",
+   "b": "akkuhoyla",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "akku iskuvaannin",
+   "b": "akkuiskuvaannin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "akku kompressori",
+   "b": "akkukompressori",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "akku kulmahiomakone",
+   "b": "akkukulmahiomakone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "akku naulain",
+   "b": "akkunaulain",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "akku niittain",
+   "b": "akkuniittain",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "akku porakone",
+   "b": "akkuporakone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "akku poravasara",
+   "b": "akkuporavasara",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "akku ruuvinvaannin",
+   "b": "akkuruuvinvaannin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "akku ylajyrsin",
+   "b": "akkuylajyrsin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "akkupora",
+   "b": "akkuporakone",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "akryyli massa",
+   "b": "akryylimassa",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "alus levy",
+   "b": "aluslevy",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "aluslevy",
+   "b": "prikka",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "asennus liima",
+   "b": "asennusliima",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "asennus poyta",
+   "b": "asennuspoyta",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "askel pora",
+   "b": "askelpora",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "auto kompressori",
+   "b": "autokompressori",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "betoni hiomakone",
+   "b": "betonihiomakone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "betoni naulain",
+   "b": "betoninaulain",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "betoni porantera",
+   "b": "betoniporantera",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "bitumi massa",
+   "b": "bitumimassa",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "c puristin",
+   "b": "c-puristin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "delta-hiomakone",
+   "b": "karkihiomakone",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "dyckert naulain",
+   "b": "dyckertnaulain",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "epakesko hiomakone",
+   "b": "epakeskohiomakone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "epoksi liima",
+   "b": "epoksiliima",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hakanen",
+   "b": "sinkila",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hakas naulain",
+   "b": "hakasnaulain",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hakas pistooli",
+   "b": "hakaspistooli",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "harja kone",
+   "b": "harjakone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hengitys suojain",
+   "b": "hengityssuojain",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hengityssuoja",
+   "b": "hengityssuojain",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hioma kangas",
+   "b": "hiomakangas",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hioma kivi",
+   "b": "hiomakivi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hioma laikka",
+   "b": "hiomalaikka",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hioma nauha",
+   "b": "hiomanauha",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hioma paperi",
+   "b": "hiomapaperi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hioma sieni",
+   "b": "hiomasieni",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hioma verkko",
+   "b": "hiomaverkko",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hitsaus invertteri",
+   "b": "hitsausinvertteri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hitsaus kone",
+   "b": "hitsauskone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hitsaus laite",
+   "b": "hitsauslaite",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hitsaus maski",
+   "b": "hitsausmaski",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hitsaus muuntaja",
+   "b": "hitsausmuuntaja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hitsaus poltin",
+   "b": "hitsauspoltin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hitsaus poyta",
+   "b": "hitsauspoyta",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hoyla penkki",
+   "b": "hoylapenkki",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hoylan tera",
+   "b": "hoylantera",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hoylantera",
+   "b": "hoylatera",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hoyryn sulku",
+   "b": "hoyrynsulku",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "huomio liivi",
+   "b": "huomioliivi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "huopanaulain",
+   "b": "kattohuopanaulain",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hylsy avain",
+   "b": "hylsyavain",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hylsy kotelo",
+   "b": "hylsykotelo",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ilma kompressori",
+   "b": "ilmakompressori",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ilmanaulain",
+   "b": "paineilmanaulain",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ilmastointi teippi",
+   "b": "ilmastointiteippi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ilmavaannin",
+   "b": "paineilmavaannin",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "impulssi ruuvinvaannin",
+   "b": "impulssiruuvinvaannin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "inverter hitsauskone",
+   "b": "inverterhitsauskone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "inverterhitsauskone",
+   "b": "invertterihitsauskone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "iskeva ruuvinvaannin",
+   "b": "iskuruuvinvaannin",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "isku porakone",
+   "b": "iskuporakone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "isku vaannin",
+   "b": "iskuvaannin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "iskupora",
+   "b": "iskuporakone",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "jako avain",
+   "b": "jakoavain",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "jiiri saha",
+   "b": "jiirisaha",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "jiirisaha",
+   "b": "jiirisirkkeli",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "jiirisaha tera",
+   "b": "jiirisahantera",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "jiirisahantera",
+   "b": "jiirisirkkelintera",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "jousi puristin",
+   "b": "jousipuristin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "jyrsin poyta",
+   "b": "jyrsinpoyta",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "jyrsin tera",
+   "b": "jyrsintera",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kaapeli kuorija",
+   "b": "kaapelinkuorija",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kaapeli leikkuri",
+   "b": "kaapelileikkuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kaari saha",
+   "b": "kaarisaha",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kaasu naulain",
+   "b": "kaasunaulain",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kaiverrus jyrsin",
+   "b": "kaiverrusjyrsin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kara hiomakone",
+   "b": "karahiomakone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "karki hiomakone",
+   "b": "karkihiomakone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kasi hoyla",
+   "b": "kasihoyla",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kasi jyrsin",
+   "b": "kasijyrsin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kasi nitoja",
+   "b": "kasinitoja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kasi sirkkeli",
+   "b": "kasisirkkeli",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kasisaha tera",
+   "b": "kasisahantera",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kasvo suojain",
+   "b": "kasvosuojain",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kasvonsuojain",
+   "b": "kasvosuojain",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "katkaisu kone",
+   "b": "katkaisukone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "katkaisu laikka",
+   "b": "katkaisulaikka",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "katkaisu saha",
+   "b": "katkaisusaha",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "katkaisu tera",
+   "b": "katkaisutera",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "katkotera veitsi",
+   "b": "katkoteraveitsi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "katto massa",
+   "b": "kattomassa",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kattohuopa naulain",
+   "b": "kattohuopanaulain",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "keskio porantera",
+   "b": "keskioporantera",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ketju saha",
+   "b": "ketjusaha",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ketjusaha",
+   "b": "moottorisaha",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kierre liima",
+   "b": "kierreliima",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kiillotus kone",
+   "b": "kiillotuskone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kiillotus laikka",
+   "b": "kiillotuslaikka",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kiinto avain",
+   "b": "kiintoavain",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kipsi hiomakone",
+   "b": "kipsihiomakone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kipsi levy",
+   "b": "kipsilevy",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kipsilevy ruuvain",
+   "b": "kipsilevyruuvain",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kipsilevy ruuvi",
+   "b": "kipsilevyruuvi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kipsilevyruuvain",
+   "b": "kipsiruuvain",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kipsilevyruuvi",
+   "b": "kipsiruuvi",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kivi porantera",
+   "b": "kiviporantera",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kone ruuvi",
+   "b": "koneruuvi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kone teline",
+   "b": "koneteline",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kontakti liima",
+   "b": "kontaktiliima",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kouru hoyla",
+   "b": "kouruhoyla",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kovametalli tera",
+   "b": "kovametallitera",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kulma hiomakone",
+   "b": "kulmahiomakone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kulma mitta",
+   "b": "kulmamitta",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kulma porakone",
+   "b": "kulmaporakone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kulma puristin",
+   "b": "kulmapuristin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kulma ruuvinvaannin",
+   "b": "kulmaruuvinvaannin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kulmahiomakone",
+   "b": "rallakka",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kulmapora",
+   "b": "kulmaporakone",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kulmaruuvain",
+   "b": "kulmaruuvinvaannin",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kuulo suojaimet",
+   "b": "kuulosuojaimet",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kuulosuojaimet",
+   "b": "kuulosuojain",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kuuma liima",
+   "b": "kuumaliima",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kuvio saha",
+   "b": "kuviosaha",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "laatta leikkuri",
+   "b": "laattaleikkuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "laatta liima",
+   "b": "laattaliima",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "laikka hiomakone",
+   "b": "laikkahiomakone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lamelli jyrsin",
+   "b": "lamellijyrsin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lamelli laikka",
+   "b": "lamellilaikka",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lapa pora",
+   "b": "lapapora",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lapapora",
+   "b": "lattapora",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "laser etaisyysmittari",
+   "b": "laseretaisyysmittari",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "laseretaisyysmitta",
+   "b": "laseretaisyysmittari",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lasi leikkuri",
+   "b": "lasileikkuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lattia hiomakone",
+   "b": "lattiahiomakone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "letkuklemmari",
+   "b": "letkunkiristin",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "letkun kiristin",
+   "b": "letkunkiristin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "liima puristin",
+   "b": "liimapuristin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "linja laser",
+   "b": "linjalaser",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "linjalaser",
+   "b": "viivalaser",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "maalari teippi",
+   "b": "maalarinteippi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "maalarinteippi",
+   "b": "maalausteippi",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "magneetti porakone",
+   "b": "magneettiporakone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "magneettipora",
+   "b": "magneettiporakone",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "manta kompressori",
+   "b": "mantakompressori",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "matto veitsi",
+   "b": "mattoveitsi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "merkkaus mitta",
+   "b": "merkkausmitta",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "metalli hiomakone",
+   "b": "metallihiomakone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "metalli porantera",
+   "b": "metalliporantera",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "mig hitsauskone",
+   "b": "mig-hitsauskone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "mig-hitsauskone",
+   "b": "mig-hitsauslaite",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "mini hiomakone",
+   "b": "minihiomakone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "mini kompressori",
+   "b": "minikompressori",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "mitta nauha",
+   "b": "mittanauha",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "mitta pyora",
+   "b": "mittapyora",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "mittapyora",
+   "b": "mittauspyora",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "momentti vaannin",
+   "b": "momenttivaannin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "monitoimi tera",
+   "b": "monitoimitera",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "muovi hitsauskone",
+   "b": "muovihitsauskone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "muovihitsauskone",
+   "b": "muovihitsauslaite",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "nauha hiomakone",
+   "b": "nauhahiomakone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "nauha viila",
+   "b": "nauhaviila",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "naula pyssy",
+   "b": "naulapyssy",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "niitti pistooli",
+   "b": "niittipistooli",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "oiko hoyla",
+   "b": "oikohoyla",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "oljyton kompressori",
+   "b": "oljyvapaa kompressori",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "paineilma kompressori",
+   "b": "paineilmakompressori",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "paineilma naulain",
+   "b": "paineilmanaulain",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "paineilma niittain",
+   "b": "paineilmaniittain",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "paineilma sailio",
+   "b": "paineilmasailio",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "paineilma vaannin",
+   "b": "paineilmavaannin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "paksuus hoyla",
+   "b": "paksuushoyla",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "palkki puristin",
+   "b": "palkkipuristin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "palmu naulain",
+   "b": "palmunaulain",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "palo massa",
+   "b": "palomassa",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pellinleikkuri",
+   "b": "pelti leikkuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pellinleikkuri",
+   "b": "peltileikkuri",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pelti sakset",
+   "b": "peltisakset",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "penkki hiomakone",
+   "b": "penkkihiomakone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "penkki hoyla",
+   "b": "penkkihoyla",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "penkki porakone",
+   "b": "penkkiporakone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "penkki puristin",
+   "b": "penkkipuristin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "penkkipora",
+   "b": "penkkiporakone",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "penkkipuristin",
+   "b": "ruuvipenkki",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pientarvike laatikko",
+   "b": "pientarvikelaatikko",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pika liima",
+   "b": "pikaliima",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pika puristin",
+   "b": "pikapuristin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "piste hitsauskone",
+   "b": "pistehitsauskone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pistehitsauskone",
+   "b": "pistehitsauslaite",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pisto saha",
+   "b": "pistosaha",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "plasma leikkuri",
+   "b": "plasmaleikkuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "plasmaleikkauslaite",
+   "b": "plasmaleikkuri",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "polvi suojat",
+   "b": "polvisuojat",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "polyuretaani massa",
+   "b": "polyuretaanimassa",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pora kone",
+   "b": "porakone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pora tera",
+   "b": "porantera",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pora vasara",
+   "b": "poravasara",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "porantera kotelo",
+   "b": "poranterakotelo",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "poyta jyrsin",
+   "b": "poytajyrsin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "poyta saha",
+   "b": "poytasaha",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "poytasaha",
+   "b": "poytasirkkeli",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "puikko hitsauskone",
+   "b": "puikkohitsauskone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "puikkohitsauskone",
+   "b": "puikkohitsauslaite",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pultti sakset",
+   "b": "pulttisakset",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pulttileikkuri",
+   "b": "pulttisakset",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "puristin poyta",
+   "b": "puristinpoyta",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "putki hiomakone",
+   "b": "putkihiomakone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "putki kitti",
+   "b": "putkikitti",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "putki leikkuri",
+   "b": "putkileikkuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "putki puristin",
+   "b": "putkipuristin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "putki sakset",
+   "b": "putkisakset",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "puu liima",
+   "b": "puuliima",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "puu porantera",
+   "b": "puuporantera",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "puu ruuvi",
+   "b": "puuruuvi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "puukko saha",
+   "b": "puukkosaha",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "puukkosaha",
+   "b": "sapelisaha",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "puukkosaha tera",
+   "b": "puukkosahantera",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pylvas porakone",
+   "b": "pylvasporakone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pylvaspora",
+   "b": "pylvasporakone",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pyoro saha",
+   "b": "pyorosaha",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pyorosaha tera",
+   "b": "pyorosahantera",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pyorosahantera",
+   "b": "sirkkelintera",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "raikka vaannin",
+   "b": "raikkavaannin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "rakennus levy",
+   "b": "rakennuslevy",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "rakennus liima",
+   "b": "rakennusliima",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "rakennus massa",
+   "b": "rakennusmassa",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "rakennus muovi",
+   "b": "rakennusmuovi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "reika levy",
+   "b": "reikalevy",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "reika saha",
+   "b": "reikasaha",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "reikasaha",
+   "b": "reikatera",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "rengas taytin",
+   "b": "rengastaytin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "rengastaytin",
+   "b": "renkaantaytin",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "reuna hoyla",
+   "b": "reunahoyla",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "reuna jyrsin",
+   "b": "reunajyrsin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "risti laser",
+   "b": "ristilaser",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "routa eriste",
+   "b": "routaeriste",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "rulla mitta",
+   "b": "rullamitta",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "rulla pukki",
+   "b": "rullapukki",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "runko naulain",
+   "b": "runkonaulain",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ruuvari",
+   "b": "ruuvimeisseli",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ruuvi kompressori",
+   "b": "ruuvikompressori",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ruuvi meisseli",
+   "b": "ruuvimeisseli",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ruuvi puristin",
+   "b": "ruuvipuristin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "saha pukki",
+   "b": "sahapukki",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "saha tera",
+   "b": "sahantera",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sahaketju",
+   "b": "teraketju",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sahko hoyla",
+   "b": "sahkohoyla",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sahko nitoja",
+   "b": "sahkonitoja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sauma aine",
+   "b": "saumausaine",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sauma massa",
+   "b": "saumamassa",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sds porantera",
+   "b": "sds-porantera",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "seina hiomakone",
+   "b": "seinahiomakone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "silikoni",
+   "b": "silikonimassa",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sinkila pistooli",
+   "b": "sinkilapistooli",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sivu leikkuri",
+   "b": "sivuleikkuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sivuleikkuri",
+   "b": "sivuleikkurit",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sorkka rauta",
+   "b": "sorkkarauta",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "spiraali pora",
+   "b": "spiraalipora",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "spray-liima",
+   "b": "sprayliima",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "suoja haalari",
+   "b": "suojahaalari",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "suoja kypara",
+   "b": "suojakypara",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "suoja lasit",
+   "b": "suojalasit",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "suoja muovi",
+   "b": "suojamuovi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "suoja pahvi",
+   "b": "suojapahvi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "suojakengat",
+   "b": "turvakengat",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "suojakypara",
+   "b": "turvakypara",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "suora hiomakone",
+   "b": "suorahiomakone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "taitto tyopoyta",
+   "b": "taittotyopoyta",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tapetti liima",
+   "b": "tapettiliima",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tappi jyrsin",
+   "b": "tappijyrsin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "taso hiomakone",
+   "b": "tasohiomakone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "taso hoyla",
+   "b": "tasohoyla",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "taso-oiko hoyla",
+   "b": "taso-oikohoyla",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "taso-oikohoyla",
+   "b": "tasooikohoyla",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tera ketju",
+   "b": "teraketju",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "teras harja",
+   "b": "terasharja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tig hitsauskone",
+   "b": "tig-hitsauskone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tig-hitsauskone",
+   "b": "tig-hitsauslaite",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tiiviste massa",
+   "b": "tiivistemassa",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tiivistemassa",
+   "b": "tiivistysmassa",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tiivistenauha",
+   "b": "tiivistysnauha",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tiivistys nauha",
+   "b": "tiivistysnauha",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "timantti hiomakone",
+   "b": "timanttihiomakone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "timantti laikka",
+   "b": "timanttilaikka",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "timantti porakone",
+   "b": "timanttiporakone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "timantti porantera",
+   "b": "timanttiporantera",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "timantti tera",
+   "b": "timanttitera",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "turva kengat",
+   "b": "turvakengat",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "turva valjaat",
+   "b": "turvavaljaat",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tuulensuoja levy",
+   "b": "tuulensuojalevy",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tyo asema",
+   "b": "tyoasema",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tyo kasineet",
+   "b": "tyokasineet",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tyo penkki",
+   "b": "tyopenkki",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tyo poyta",
+   "b": "tyopoyta",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tyo taso",
+   "b": "tyotaso",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tyohanskat",
+   "b": "tyokasineet",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tyokalu kaappi",
+   "b": "tyokalukaappi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tyokalu laatikko",
+   "b": "tyokalulaatikko",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tyokalu laukku",
+   "b": "tyokalulaukku",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tyokalu pakki",
+   "b": "tyokalupakki",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tyokalu reppu",
+   "b": "tyokalureppu",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tyokalu seina",
+   "b": "tyokaluseina",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tyokalu teline",
+   "b": "tyokaluteline",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tyokalu vaunu",
+   "b": "tyokaluvaunu",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tyonto mitta",
+   "b": "tyontomitta",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tyontomitta",
+   "b": "tyontomittari",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "upotus saha",
+   "b": "upotussaha",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "upotussaha",
+   "b": "upposaha",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ura jyrsin",
+   "b": "urajyrsin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vanne saha",
+   "b": "vannesaha",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vannesaha tera",
+   "b": "vannesahantera",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vasara nitoja",
+   "b": "vasaranitoja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "verhoilu nitoja",
+   "b": "verhoilunitoja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vesi vaaka",
+   "b": "vesivaaka",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "viimeistely naulain",
+   "b": "viimeistelynaulain",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ydin porakone",
+   "b": "ydinporakone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "yla jyrsin",
+   "b": "ylajyrsin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "akkukulmahiomakone",
+   "b": "akkurallakka",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "akkuruuvari",
+   "b": "akkuruuvinvaannin",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "askelpora",
+   "b": "porrastera",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "betonipora",
+   "b": "betoniporantera",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hakanen naulain",
+   "b": "hakasnaulain",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hiljainen kompressori",
+   "b": "hiljaiskompressori",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hiomapaperi",
+   "b": "santapaperi",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hitsauskypara",
+   "b": "hitsausmaski",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "huomioliivi",
+   "b": "nakyvyysliivi",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ilma niittain",
+   "b": "paineilmaniittain",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ilmastointiteippi",
+   "b": "jesari",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "impulssiruuvain",
+   "b": "impulssiruuvinvaannin",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kaapelinkuorija",
+   "b": "kuorintapihdit",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kasiylajyrsin",
+   "b": "ylajyrsin",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "keskioporantera",
+   "b": "keskiotera",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kierukkapora",
+   "b": "spiraalipora",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kiillotin",
+   "b": "kiillotuskone",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kivipora",
+   "b": "kiviporantera",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kompressori",
+   "b": "paineilmakompressori",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "merkintamitta",
+   "b": "merkkausmitta",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "metallipora",
+   "b": "metalliporantera",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "niittipistooli",
+   "b": "nitojapistooli",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "palokatkomassa",
+   "b": "palomassa",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "polyuretaanimassa",
+   "b": "pu-massa",
+   "type": "abbreviation",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "proppu",
+   "b": "tulppa",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "putoamisvaljaat",
+   "b": "turvavaljaat",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "puupora",
+   "b": "puuporantera",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "rinnakkaispuristin",
+   "b": "yhdensuuntapuristin",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sds-porantera",
+   "b": "sds-tera",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sorkkarauta",
+   "b": "vaantorauta",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sprayliima",
+   "b": "suihkeliima",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "suojalasit",
+   "b": "turvalasit",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "taitettava tyopoyta",
+   "b": "taittotyopoyta",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "taryhiomakone",
+   "b": "tasohiomakone",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tasoite",
+   "b": "tasoitusmassa",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  }
+ ]
+}

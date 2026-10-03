@@ -1,0 +1,283 @@
+power drill
+cordless drill
+hammer drill
+rotary hammer
+drill driver
+angle drill
+pillar drill
+magnetic drill
+core drill
+drywall screwdriver
+drill stand
+drill chuck
+impact driver
+impact wrench
+impact screwdriver
+hex driver
+power screwdriver
+bit holder
+socket adapter
+impact socket
+torque adapter
+circular saw
+jigsaw
+reciprocating saw
+mitre saw
+chop saw
+band saw
+plunge saw
+table saw
+scroll saw
+handsaw
+backsaw
+coping saw
+orbital sander
+belt sander
+detail sander
+multi-sander
+drywall sander
+disc sander
+palm sander
+bench sander
+spindle sander
+sheet sander
+polisher
+angle grinder
+straight grinder
+cut-off tool
+concrete grinder
+cordless grinder
+mini grinder
+bench grinder
+die grinder
+wall chaser
+diamond grinder
+grinding wheel
+flap disc
+router
+plunge router
+trim router
+palm router
+laminate trimmer
+biscuit joiner
+dovetail router
+router table
+router base
+router guide
+router fence
+collet
+planer
+electric planer
+thickness planer
+jointer
+hand plane
+block plane
+smoothing plane
+rebate plane
+planer blade
+bench plane
+spokeshave
+planer stand
+nailer
+pneumatic nailer
+cordless nailer
+brad nailer
+finish nailer
+framing nailer
+coil nailer
+roofing nailer
+pin nailer
+nail gun
+concrete nailer
+nail set
+stapler
+electric stapler
+cordless stapler
+pneumatic stapler
+hand stapler
+hammer tacker
+cable stapler
+upholstery stapler
+staple gun
+staple remover
+staples
+staple magazine
+welder
+arc welder
+MIG welder
+MAG welder
+TIG welder
+flux-core welder
+inverter welder
+spot welder
+plasma cutter
+welding torch
+welding wire
+welding electrode
+air compressor
+piston compressor
+silent compressor
+cordless compressor
+portable compressor
+workshop compressor
+air tank
+air hose
+pressure regulator
+tyre inflator
+compressor pump
+hammer
+screwdriver
+pliers
+side cutters
+combination pliers
+water-pump pliers
+open-end wrench
+ring spanner
+socket wrench
+ratchet
+hex key
+Torx key
+tape measure
+folding ruler
+spirit level
+caliper
+angle finder
+cross-line laser
+steel ruler
+try square
+sliding bevel
+depth gauge
+feeler gauge
+utility knife
+craft knife
+tin snips
+bolt cutters
+pipe cutter
+glass cutter
+cable cutter
+wire stripper
+hole saw
+tube cutter
+deburring tool
+hacksaw
+bar clamp
+quick clamp
+spring clamp
+C-clamp
+pipe clamp
+parallel clamp
+corner clamp
+frame clamp
+edge clamp
+hand-screw clamp
+bench vice
+machine vice
+workbench
+folding workbench
+woodworking bench
+work table
+welding table
+assembly table
+workbench frame
+worktop
+clamping bench
+sawhorse
+work platform
+toolbox
+tool case
+tool bag
+tool trolley
+tool cabinet
+tool chest
+tool backpack
+pegboard
+parts organizer
+organizer case
+tool holder
+tool belt
+masonry bit
+concrete bit
+Forstner bit
+spade bit
+auger bit
+centre drill
+core bit
+countersink bit
+jigsaw blade
+diamond blade
+cutting disc
+chainsaw chain
+fine-cut blade
+oscillating blade
+segment blade
+hacksaw blade
+sandpaper
+sanding belt
+sanding disc
+abrasive fleece
+sanding sponge
+sanding mesh
+fibre disc
+sanding roll
+polishing pad
+wire brush
+abrasive wheel
+screw
+wood screw
+machine screw
+wall plug
+nail
+nut
+washer
+threaded rod
+blind rivet
+staple
+cotter pin
+anchor bolt
+super glue
+wood glue
+construction adhesive
+contact adhesive
+spray adhesive
+epoxy adhesive
+all-purpose glue
+tile adhesive
+hot glue
+glue stick
+double-sided tape
+sealant adhesive
+silicone sealant
+acrylic sealant
+caulk
+joint sealant
+sealing tape
+weatherstrip
+roof sealant
+body sealant
+putty
+sealing profile
+sealing cord
+safety glasses
+hearing protection
+work gloves
+respirator
+hard hat
+knee pads
+safety boots
+welding helmet
+face shield
+hi-vis vest
+dust mask
+cut-resistant gloves
+cement
+mortar
+plaster
+screed
+concrete
+gypsum
+filler
+expanding foam
+insulation
+roofing felt
+reinforcing mesh
+builders film

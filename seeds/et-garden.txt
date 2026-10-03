@@ -1,0 +1,291 @@
+muruniiduk
+akumuruniiduk
+elektriline muruniiduk
+bensiinimuruniiduk
+robotniiduk
+lükatav muruniiduk
+isemajandav muruniiduk
+trummelniiduk
+rootorniiduk
+multšiv niiduk
+muruniidutraktor
+raider
+murutrimmer
+akutrimmer
+elektritrimmer
+bensiinitrimmer
+jõhvtrimmer
+servatrimmer
+trimmerijõhv
+trimmeripea
+trimmeritera
+murukäärid
+äärelõikur
+rohutrimmer
+võsalõikur
+võsatrimmer
+mootorvikat
+aku-võsalõikur
+bensiinivõsalõikur
+rohutera
+võsatera
+trimmeriketas
+rakmed
+kandetraksid
+võsalõikuri pea
+lõikeketas
+kettsaag
+mootorsaag
+akukettsaag
+elektrikettsaag
+bensiinikettsaag
+oksasaag
+kõrglõikur
+saekett
+juhtplaat
+ketiõli
+ketiteritaja
+ketiviil
+lehepuhur
+akulehepuhur
+elektriline lehepuhur
+bensiinilehepuhur
+seljakott-lehepuhur
+leheimur
+lehepuhur-imur
+puhumistoru
+lapik otsik
+ümar otsik
+kogumiskott
+rennipuhastusotsik
+hekilõikur
+akuhekilõikur
+elektriline hekilõikur
+bensiinihekilõikur
+teleskoophekilõikur
+varrega hekilõikur
+hekikäärid
+põõsakäärid
+hekilõikuri tera
+terakaitse
+lõikejäätmete koguja
+puulõhkuja
+halulõhkuja
+elektriline puulõhkuja
+bensiinipuulõhkuja
+horisontaalne puulõhkuja
+vertikaalne puulõhkuja
+hüdrauliline puulõhkuja
+lõhkumiskiil
+ristkiil
+halualus
+puulõhkumismasin
+halumasin
+oksapurustaja
+aiapurustaja
+puiduhakkur
+oksahakkur
+elektriline oksapurustaja
+bensiinipurustaja
+rullpurustaja
+terapurustaja
+purustustera
+sisestuslehter
+kogumiskast
+hakkeimuri kott
+mullafrees
+aiakultivaator
+mootorkultivaator
+elektriline mullafrees
+akukultivaator
+bensiinikultivaator
+mullaharija
+kultivaator
+freesitera
+kultivaatoripiid
+vaoajaja
+kobesti
+vertikuteerija
+murukobestaja
+muruõhutaja
+elektriline vertikuteerija
+akuvertikuteerija
+bensiinivertikuteerija
+vertikuteerimisrull
+õhutusrull
+samblareha
+vertikuteerimistera
+muruaeraator
+survepesur
+kõrgsurvepesur
+elektriline survepesur
+bensiinisurvepesur
+akusurvepesur
+terrassipesur
+pinnapesur
+turbootsik
+vahudüüs
+pesuhari
+survevoolik
+pihustuspüstol
+surveprits
+selgprits
+käsiprits
+akuprits
+aiaprits
+taimeprits
+pritsipudel
+pihusti
+pritsitoru
+umbrohuprits
+vahupihusti
+survepihusti
+kastmissüsteem
+tilkkastmissüsteem
+vihmutussüsteem
+kastmistaimer
+kastmisarvuti
+tilkkastmisvoolik
+imbvoolik
+mikrokastmine
+kastmiskontroller
+kastmisventiil
+voolikujagur
+kastmiskomplekt
+aiavoolik
+spiraalvoolik
+lamedavoolik
+imivoolik
+voolikurull
+voolikukäru
+voolikuhoidik
+voolikuliitmik
+voolikuühendus
+voolikuklamber
+voolikuotsik
+kastekann
+kastmisvars
+kastmispüstol
+kastmisotsik
+pihustusotsik
+vihmuti
+võnkuv vihmuti
+löök-vihmuti
+ringvihmuti
+sektorvihmuti
+kastmisdušš
+labidas
+kühvel
+aiakahvel
+reha
+kõblas
+istutuskühvel
+käsikahvel
+umbrohueemaldaja
+mullakühvel
+aiakäpp
+sibulaistutaja
+oksakäärid
+aiakäärid
+sekator
+oksalõikur
+varreoksalõikur
+alasiga oksakäärid
+möödaviiguga oksakäärid
+kokkupandav saag
+puusaag
+pookimisnuga
+kirves
+lõhkumiskirves
+langetuskirves
+käsikirves
+lõhkumishaamer
+metsakirves
+matkakirves
+langetuskiil
+haluhaak
+palgihaak
+sapin
+käru
+aikäru
+ehituskäru
+aiakäru
+kallutuskäru
+transpordikäru
+käruratas
+kärurehv
+kärukast
+käepidemed
+platvormkäru
+lillepott
+istutuspott
+rõdukast
+istutuskast
+kõrgpeenar
+kasvukott
+ripppott
+lillekast
+taimealus
+istikupott
+külvikast
+isetasanduv kastmispott
+kasvuhoone
+polükarbonaadist kasvuhoone
+klaaskasvuhoone
+seinaäärne kasvuhoone
+minikasvuhoone
+kiletunnel
+külmlava
+tomatikasvuhoone
+kasvuhooneriiul
+kasvuhoonesoojendi
+automaatne aknaavaja
+kasvuhoonekile
+aiatool
+ai laud
+aia laud
+aia pink
+lamamistool
+aiadiivan
+aiamööbli komplekt
+bistrookomplekt
+aiataburet
+ripptool
+aiakiik
+päevitusvoodi
+grill
+gaasi grill
+söegrill
+elektrigrill
+kuppelgrill
+lauagrill
+suitsuahi
+grillrest
+grillplaat
+grillitangid
+grillihari
+grillikate
+välisvalgusti
+aiavalgusti
+teevalgusti
+seinavalgusti
+päikeselamp
+maavalgusti
+postvalgusti
+valguskett
+prožektor
+terrassivalgusti
+ai alatern
+liikumisanduriga valgusti
+lumelabidas
+lumelükkaja
+lumepuhur
+elektriline lumepuhur
+akulumepuhur
+bensiinilumepuhur
+jääkaabits
+lumehari
+puistur
+katuse lumereha
+jääpurustaja
+lumekühvel

@@ -1,0 +1,2809 @@
+{
+ "format": 1,
+ "lang": "fi",
+ "vertical": "home",
+ "version": "2026-10-03",
+ "license": "CC-BY-4.0",
+ "source": "searchmaker-language-packs",
+ "generator": {
+  "models": [
+   "chatgpt"
+  ],
+  "prompt_version": [
+   "2"
+  ],
+  "passes": 1,
+  "thresholds": {
+   "min_agreement": 0.66,
+   "min_conf": 0.6,
+   "min_critic": 0.67
+  },
+  "critic": true
+ },
+ "review": {
+  "native_speaker_checked": false,
+  "note": "Generated data. Review before shipping."
+ },
+ "dropped": {
+  "model_number": 2,
+  "denylist": 6,
+  "identical": 7,
+  "critic": 11,
+  "low_confidence": 1,
+  "broader": 9
+ },
+ "pairs": [
+  {
+   "a": "leivanpaahdin",
+   "b": "paahdin",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 1.0,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "petauspatja",
+   "b": "sijauspatja",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 1.0,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "pliseekaihdin",
+   "b": "vekkikaihdin",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 1.0,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "sohvasanky",
+   "b": "vuodesohva",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 1.0,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "toimistotuoli",
+   "b": "tyotuoli",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 1.0,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "apupoyta",
+   "b": "sivupoyta",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.94,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "kasinojatuoli",
+   "b": "nojatuoli",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.94,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "leposohva",
+   "b": "reclinersohva",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.94,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "paivapeite",
+   "b": "sangynpeite",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.94,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "akku imuri",
+   "b": "akkuimuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "alumiini kaihdin",
+   "b": "alumiinikaihdin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "alus lakana",
+   "b": "aluslakana",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "apteekkarin kaappi",
+   "b": "apteekkarinkaappi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "apu poyta",
+   "b": "apupoyta",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "astianpesu kone",
+   "b": "astianpesukone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "astianpesukone",
+   "b": "tiskikone",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "baari jakkara",
+   "b": "baarijakkara",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "baari poyta",
+   "b": "baaripoyta",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "bagel paahdin",
+   "b": "bagelpaahdin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "bambu kaihdin",
+   "b": "bambukaihdin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "divaani sohva",
+   "b": "divaanisohva",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "espresso keitin",
+   "b": "espressokeitin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "espressokeitin",
+   "b": "espressokone",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "eteis kaappi",
+   "b": "eteiskaappi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "eteis peili",
+   "b": "eteispeili",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "evas rasia",
+   "b": "evasrasia",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "futon patja",
+   "b": "futonpatja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "grilli pannu",
+   "b": "grillipannu",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hamam-pyyhe",
+   "b": "hamampyyhe",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "haudutus pata",
+   "b": "haudutuspata",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hedelma kori",
+   "b": "hedelmakori",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hius pyyhe",
+   "b": "hiuspyyhe",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hoyry kattila",
+   "b": "hoyrykattila",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hylly jarjestelma",
+   "b": "hyllyjarjestelma",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ilma patja",
+   "b": "ilmapatja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "imuri",
+   "b": "polynimuri",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "induktio liesi",
+   "b": "induktioliesi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "irtopohja vuoka",
+   "b": "irtopohjavuoka",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "jaakaappi rasia",
+   "b": "jaakaappirasia",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "jaakaappi-pakastin",
+   "b": "jaakaappipakastin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "jatkettava poyta",
+   "b": "jatkopoyta",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "joustin patja",
+   "b": "joustinpatja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "juutti matto",
+   "b": "juuttimatto",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kahvi mylly",
+   "b": "kahvimylly",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kahvi pannu",
+   "b": "kahvipannu",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kahvi puristin",
+   "b": "kahvipuristin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kahvikeitin",
+   "b": "kahvinkeitin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kahvin keitin",
+   "b": "kahvinkeitin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kakku vuoka",
+   "b": "kakkuvuoka",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kangas sohva",
+   "b": "kangassohva",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kappa verho",
+   "b": "kappaverho",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kapseli keitin",
+   "b": "kapselikeitin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kapselikeitin",
+   "b": "kapselikone",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kasi imuri",
+   "b": "kasi-imuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kasi pyyhe",
+   "b": "kasipyyhe",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kasi suodatin",
+   "b": "kasisuodatin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kasinoja tuoli",
+   "b": "kasinojatuoli",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kasvo pyyhe",
+   "b": "kasvopyyhe",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "katto kaihdin",
+   "b": "kattokaihdin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "katto valaisin",
+   "b": "kattovalaisin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kattolamppu",
+   "b": "kattovalaisin",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kaytava matto",
+   "b": "kaytavamatto",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "keinu tuoli",
+   "b": "keinutuoli",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "keitin kannu",
+   "b": "keitinkannu",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "keittio hylly",
+   "b": "keittiohylly",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "keittotaso",
+   "b": "liesitaso",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kenka hylly",
+   "b": "kenkahylly",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kenka kaappi",
+   "b": "kenkakaappi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kerros sanky",
+   "b": "kerrossanky",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "keskusimuri",
+   "b": "keskuspolynimuri",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kirja hylly",
+   "b": "kirjahylly",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kirjoitus poyta",
+   "b": "kirjoituspoyta",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kohde valaisin",
+   "b": "kohdevalaisin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kohdevalaisin",
+   "b": "spottivalaisin",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kokovartalo peili",
+   "b": "kokovartalopeili",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "konsoli poyta",
+   "b": "konsolipoyta",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kontakti grilli",
+   "b": "kontaktigrilli",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "koriste esine",
+   "b": "koriste-esine",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "koriste tyyny",
+   "b": "koristetyyny",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kuiva imuri",
+   "b": "kuivaimuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kuivaruoka purkki",
+   "b": "kuivaruokapurkki",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kuivaus kaappi",
+   "b": "kuivauskaappi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kuivaus rumpu",
+   "b": "kuivausrumpu",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kulma hylly",
+   "b": "kulmahylly",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kulma sohva",
+   "b": "kulmasohva",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kuorima veitsi",
+   "b": "kuorimaveitsi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kuorimaveitsi",
+   "b": "kuorintaveitsi",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kylpy matto",
+   "b": "kylpymatto",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kylpy pyyhe",
+   "b": "kylpypyyhe",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kylpy takki",
+   "b": "kylpytakki",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kylpyhuone matto",
+   "b": "kylpyhuonematto",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kylpyhuone peili",
+   "b": "kylpyhuonepeili",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kynttilajalka",
+   "b": "kynttilanjalka",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kynttilan jalka",
+   "b": "kynttilanjalka",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lampunvarjostin",
+   "b": "varjostin",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lasi vedenkeitin",
+   "b": "lasivedenkeitin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "laskos verho",
+   "b": "laskosverho",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lasten matto",
+   "b": "lastenmatto",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lasten patja",
+   "b": "lastenpatja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lasten sanky",
+   "b": "lastensanky",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lattia peili",
+   "b": "lattiapeili",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lattia valaisin",
+   "b": "lattiavalaisin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "led valaisin",
+   "b": "led-valaisin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "led-valaisin",
+   "b": "ledvalaisin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "leipa laatikko",
+   "b": "leipalaatikko",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "leipa vuoka",
+   "b": "leipavuoka",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "leivan paahdin",
+   "b": "leivanpaahdin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "leivin pelti",
+   "b": "leivinpelti",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lepo tuoli",
+   "b": "lepotuoli",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "levy hylly",
+   "b": "levyhylly",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "liesi taso",
+   "b": "liesitaso",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "liinavaate kaappi",
+   "b": "liinavaatekaappi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "luku lamppu",
+   "b": "lukulamppu",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lukulamppu",
+   "b": "lukuvalo",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "maidon vaahdotin",
+   "b": "maidonvaahdotin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "maidonvaahdotin",
+   "b": "maitovaahdotin",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "marka imuri",
+   "b": "markaimuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "matka vedenkeitin",
+   "b": "matkavedenkeitin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "mauste purkki",
+   "b": "maustepurkki",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "meikki peili",
+   "b": "meikkipeili",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "metalli hylly",
+   "b": "metallihylly",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "mikro",
+   "b": "mikroaaltouuni",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "mikro-uuni",
+   "b": "mikroaaltouuni",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "mini uuni",
+   "b": "miniuuni",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "mini vedenkeitin",
+   "b": "minivedenkeitin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "moduuli sohva",
+   "b": "moduulisohva",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "mokkapannu",
+   "b": "mutteripannu",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "monitoimi grilli",
+   "b": "monitoimigrilli",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "mutteri pannu",
+   "b": "mutteripannu",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "nahka sohva",
+   "b": "nahkasohva",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "nukka matto",
+   "b": "nukkamatto",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ovi matto",
+   "b": "ovimatto",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ovi verho",
+   "b": "oviverho",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "paahtoleipa uuni",
+   "b": "paahtoleipauuni",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "paine kattila",
+   "b": "painekattila",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "paistin pannu",
+   "b": "paistinpannu",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "paisto kasari",
+   "b": "paistokasari",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "paisto matto",
+   "b": "paistomatto",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "paisto pata",
+   "b": "paistopata",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "paisto vuoka",
+   "b": "paistovuoka",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "paiva peite",
+   "b": "paivapeite",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "paiva vuode",
+   "b": "paivavuode",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "paneeli verho",
+   "b": "paneeliverho",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "panini grilli",
+   "b": "paninigrilli",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pari sanky",
+   "b": "parisanky",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "parvi sanky",
+   "b": "parvisanky",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "peili kaappi",
+   "b": "peilikaappi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "peli tuoli",
+   "b": "pelituoli",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "peruna survin",
+   "b": "perunasurvin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pesu kinnas",
+   "b": "pesukinnas",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pesu kone",
+   "b": "pesukone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pesu lappu",
+   "b": "pesulappu",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pesukone",
+   "b": "pyykinpesukone",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "petaus patja",
+   "b": "petauspatja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "petauspatjan suoja",
+   "b": "petauspatjansuoja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "piirakka vuoka",
+   "b": "piirakkavuoka",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pimennys rullaverho",
+   "b": "pimennysrullaverho",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pimennys verho",
+   "b": "pimennysverho",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pinna sanky",
+   "b": "pinnasanky",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pinnasangyn patja",
+   "b": "pinnasangynpatja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pizza pelti",
+   "b": "pizzapelti",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "plafondi valaisin",
+   "b": "plafondivalaisin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "plisee kaihdin",
+   "b": "pliseekaihdin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "poly imuri",
+   "b": "polynimuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "poyta kello",
+   "b": "poytakello",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "poyta peili",
+   "b": "poytapeili",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "poyta valaisin",
+   "b": "poytavalaisin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "poytalamppu",
+   "b": "poytavalaisin",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pressokannu",
+   "b": "pressopannu",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pullo teline",
+   "b": "pulloteline",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "purjerengas verho",
+   "b": "purjerengasverho",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "purkin avaaja",
+   "b": "purkinavaaja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "puu kaihdin",
+   "b": "puukaihdin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "puuvilla matto",
+   "b": "puuvillamatto",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pysty kaihdin",
+   "b": "pystykaihdin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "rasy matto",
+   "b": "rasymatto",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "recliner sohva",
+   "b": "reclinersohva",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "rengas verho",
+   "b": "rengasverho",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "retki patja",
+   "b": "retkipatja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "retki vedenkeitin",
+   "b": "retkivedenkeitin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "riippu valaisin",
+   "b": "riippuvalaisin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "riippulamppu",
+   "b": "riippuvalaisin",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "rikka imuri",
+   "b": "rikkaimuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "robotti imuri",
+   "b": "robotti-imuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "rulla verho",
+   "b": "rullaverho",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "runko patja",
+   "b": "runkopatja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ruoka poyta",
+   "b": "ruokapoyta",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ruoka purkki",
+   "b": "ruokapurkki",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ruokailupoyta",
+   "b": "ruokapoyta",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ruokapoydan tuoli",
+   "b": "ruokapoydantuoli",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ruokapoydantuoli",
+   "b": "ruokatuoli",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sahko vedenkeitin",
+   "b": "sahkovedenkeitin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sailytys penkki",
+   "b": "sailytyspenkki",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sailytys rasia",
+   "b": "sailytysrasia",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sailytys sanky",
+   "b": "sailytyssanky",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sale kaihdin",
+   "b": "salekaihdin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sandwich grilli",
+   "b": "sandwichgrilli",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sandwichgrilli",
+   "b": "voileipagrilli",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sangyn peite",
+   "b": "sangynpeite",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sauna pyyhe",
+   "b": "saunapyyhe",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sauna tyyny",
+   "b": "saunatyyny",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "screen-kaihdin",
+   "b": "screenkaihdin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "seina hylly",
+   "b": "seinahylly",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "seina kello",
+   "b": "seinakello",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "seina peili",
+   "b": "seinapeili",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "seina valaisin",
+   "b": "seinavalaisin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "seinalamppu",
+   "b": "seinavalaisin",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sijaus patja",
+   "b": "sijauspatja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "silikoni vuoka",
+   "b": "silikonivuoka",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sivu poyta",
+   "b": "sivupoyta",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sivu verho",
+   "b": "sivuverho",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sohva poyta",
+   "b": "sohvapoyta",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sohva sanky",
+   "b": "sohvasanky",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "suihku verho",
+   "b": "suihkuverho",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "suodatin keitin",
+   "b": "suodatinkeitin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "suodatinkahvinkeitin",
+   "b": "suodatinkeitin",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "suoja lakana",
+   "b": "suojalakana",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "suurennuspeili",
+   "b": "suurentava peili",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "syva lautanen",
+   "b": "syvalautanen",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "taitettava poyta",
+   "b": "taittopoyta",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "taitto poyta",
+   "b": "taittopoyta",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tarjoilu vati",
+   "b": "tarjoiluvati",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tasku peili",
+   "b": "taskupeili",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tee keitin",
+   "b": "teekeitin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tee pannu",
+   "b": "teepannu",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tekstiili pesuri",
+   "b": "tekstiilipesuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "televisiotaso",
+   "b": "tv-taso",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "teollisuus imuri",
+   "b": "teollisuusimuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "teras vedenkeitin",
+   "b": "terasvedenkeitin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tikas hylly",
+   "b": "tikashylly",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "toimisto tuoli",
+   "b": "toimistotuoli",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "torkku peitto",
+   "b": "torkkupeitto",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tuhka imuri",
+   "b": "tuhkaimuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tv taso",
+   "b": "tv-taso",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tyhjiorasia",
+   "b": "vakuumirasia",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tyo poyta",
+   "b": "tyopoyta",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tyo tuoli",
+   "b": "tyotuoli",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tyopoyta lamppu",
+   "b": "tyopoytalamppu",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tyopoytalamppu",
+   "b": "tyopoytavalaisin",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tyyny liina",
+   "b": "tyynyliina",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ulko matto",
+   "b": "ulkomatto",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "untuva peitto",
+   "b": "untuvapeitto",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "untuva tyyny",
+   "b": "untuvatyyny",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "uuni pelti",
+   "b": "uunipelti",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "uuni vuoka",
+   "b": "uunivuoka",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vaahtomuovi patja",
+   "b": "vaahtomuovipatja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vaate kaappi",
+   "b": "vaatekaappi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vakuumi rasia",
+   "b": "vakuumirasia",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "valkosipuli puristin",
+   "b": "valkosipulipuristin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "valmis verho",
+   "b": "valmisverho",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "valo peili",
+   "b": "valopeili",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "valo verho",
+   "b": "valoverho",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "valokuva kehys",
+   "b": "valokuvakehys",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "valurauta pata",
+   "b": "valurautapata",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "varasto hylly",
+   "b": "varastohylly",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "varsi imuri",
+   "b": "varsi-imuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "veden keitin",
+   "b": "vedenkeitin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vekki kaihdin",
+   "b": "vekkikaihdin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "verho pari",
+   "b": "verhopari",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vesi pannu",
+   "b": "vesipannu",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vieras patja",
+   "b": "vieraspatja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vieras pyyhe",
+   "b": "vieraspyyhe",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vieras sanky",
+   "b": "vierassanky",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vihellyspannu",
+   "b": "viheltava pannu",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "viini lasi",
+   "b": "viinilasi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "villa matto",
+   "b": "villamatto",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "viskoelastinen patja",
+   "b": "viskopatja",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vitriini",
+   "b": "vitriinikaappi",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vohveli rauta",
+   "b": "vohvelirauta",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vohvelikone",
+   "b": "vohvelirauta",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "voileipa grilli",
+   "b": "voileipagrilli",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "voileipa rauta",
+   "b": "voileiparauta",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vuode sohva",
+   "b": "vuodesohva",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "wok pannu",
+   "b": "wokkipannu",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "wok-pannu",
+   "b": "wokkipannu",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "yopoyta lamppu",
+   "b": "yopoytalamppu",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "yopoytalamppu",
+   "b": "yopoytavalaisin",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "baarijakkara",
+   "b": "baarituoli",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "blackout-verho",
+   "b": "pimennysverho",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "evasrasia",
+   "b": "lounasrasia",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "gaming-tuoli",
+   "b": "pelituoli",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "jalkalamppu",
+   "b": "lattiavalaisin",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kahvipuristin",
+   "b": "pressopannu",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kannellinen purkki",
+   "b": "kansipurkki",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kasi-imuri",
+   "b": "rikkaimuri",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "keskuspoly imuri",
+   "b": "keskuspolynimuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kylpparimatto",
+   "b": "kylpyhuonematto",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kynnysmatto",
+   "b": "ovimatto",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "leipaboksi",
+   "b": "leipalaatikko",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "leivinpelti",
+   "b": "leivontapelti",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "leivontamatto",
+   "b": "paistomatto",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lepotuoli",
+   "b": "reclinertuoli",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "levitettava sanky",
+   "b": "levitettava vuode",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "muffini vuoka",
+   "b": "muffinivuoka",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "muffinivuoka",
+   "b": "muffinssivuoka",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "perkolaattori",
+   "b": "perkolaattorikeitin",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "perunanuija",
+   "b": "perunasurvin",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pinottava tuoli",
+   "b": "pinotuoli",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "plafondivalaisin",
+   "b": "plafondivalo",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "raastin",
+   "b": "raastinrauta",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sahkovedenkeitin",
+   "b": "vedenkeitin",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tarjoilulautanen",
+   "b": "tarjoiluvati",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "valkosipuliprassi",
+   "b": "valkosipulipuristin",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vatkain",
+   "b": "vispila",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vedenkeitin",
+   "b": "vesikeitin",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "voileipagrilli",
+   "b": "voileiparauta",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "voileipagrilli",
+   "b": "voileipatoasteri",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lavikko",
+   "b": "siivila",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.68,
+   "votes": 1,
+   "critic": 1.0
+  }
+ ]
+}

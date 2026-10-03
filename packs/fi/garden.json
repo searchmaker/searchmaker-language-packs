@@ -1,0 +1,2987 @@
+{
+ "format": 1,
+ "lang": "fi",
+ "vertical": "garden",
+ "version": "2026-10-03",
+ "license": "CC-BY-4.0",
+ "source": "searchmaker-language-packs",
+ "generator": {
+  "models": [
+   "chatgpt"
+  ],
+  "prompt_version": [
+   "2"
+  ],
+  "passes": 1,
+  "thresholds": {
+   "min_agreement": 0.66,
+   "min_conf": 0.6,
+   "min_critic": 0.67
+  },
+  "critic": true
+ },
+ "review": {
+  "native_speaker_checked": false,
+  "note": "Generated data. Review before shipping."
+ },
+ "dropped": {
+  "denylist": 13,
+  "critic": 19,
+  "identical": 2,
+  "broader": 9
+ },
+ "pairs": [
+  {
+   "a": "halkaisukiila",
+   "b": "halkomiskiila",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 1.0,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "halkaisukirves",
+   "b": "halkomakirves",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 1.0,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "halkaisukone",
+   "b": "halkomakone",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 1.0,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "halkaisukone",
+   "b": "puunhalkaisukone",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 1.0,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "halkomakone",
+   "b": "puunhalkaisukone",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 1.0,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "ketjusaha",
+   "b": "moottorisaha",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 1.0,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "korkeapainepesuri",
+   "b": "painepesuri",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 1.0,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "letkukarry",
+   "b": "letkuvaunu",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 1.0,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "nurmikkoilmaaja",
+   "b": "nurmikonilmaaja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 1.0,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "nurmikonpystyleikkuri",
+   "b": "pystyleikkuri",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 1.0,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "nurmikonreunaleikkuri",
+   "b": "reunaleikkuri",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 1.0,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "oksahakkuri",
+   "b": "risuhakkuri",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 1.0,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "pensasaitasakset",
+   "b": "pensassakset",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 1.0,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "ruohotrimmeri",
+   "b": "siimaleikkuri",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 1.0,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "kasteluletku",
+   "b": "puutarhaletku",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.94,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "klapikone",
+   "b": "polttopuukone",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.94,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "paineruisku",
+   "b": "pumppuruisku",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.94,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "pensasaitaleikkuri",
+   "b": "pensasleikkuri",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.94,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "pihapoyta",
+   "b": "puutarhapoyta",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.94,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "pihatuoli",
+   "b": "puutarhatuoli",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.94,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "tihkukastelu",
+   "b": "tippukastelu",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.94,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "tihkuletku",
+   "b": "tippuletku",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.94,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "ajoleikkuri",
+   "b": "paaltaajettava ruohonleikkuri",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "akku ilmaaja",
+   "b": "akkuilmaaja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "akku ketjusaha",
+   "b": "akkuketjusaha",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "akku kottikarryt",
+   "b": "akkukottikarryt",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "akku kultivaattori",
+   "b": "akkukultivaattori",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "akku lehtipuhallin",
+   "b": "akkulehtipuhallin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "akku lumilapio",
+   "b": "akkulumilapio",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "akku lumilinko",
+   "b": "akkulumilinko",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "akku painepesuri",
+   "b": "akkupainepesuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "akku pensasleikkuri",
+   "b": "akkupensasleikkuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "akku pensassakset",
+   "b": "akkupensassakset",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "akku raivaussaha",
+   "b": "akkuraivaussaha",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "akku ruisku",
+   "b": "akkuruisku",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "akku ruohonleikkuri",
+   "b": "akkuruohonleikkuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "akku trimmeri",
+   "b": "akkutrimmeri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "alasin sakset",
+   "b": "alasinsakset",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "altakastelu ruukku",
+   "b": "altakasteluruukku",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "amppeli",
+   "b": "riippuruukku",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "aurinko tuoli",
+   "b": "aurinkotuoli",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "aurinko varjo",
+   "b": "aurinkovarjo",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "aurinkokenno valo",
+   "b": "aurinkokennovalo",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "bensatrimmeri",
+   "b": "bensiinitrimmeri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "bensiini ilmaaja",
+   "b": "bensiini-ilmaaja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "bensiini jyrsin",
+   "b": "bensiinijyrsin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "bensiini ketjusaha",
+   "b": "bensiiniketjusaha",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "bensiini lehtipuhallin",
+   "b": "bensiinilehtipuhallin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "bensiini lumilinko",
+   "b": "bensiinilumilinko",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "bensiini pensasleikkuri",
+   "b": "bensiinipensasleikkuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "bensiini raivaussaha",
+   "b": "bensiiniraivaussaha",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "bensiini ruohonleikkuri",
+   "b": "bensiiniruohonleikkuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "bensiini silppuri",
+   "b": "bensiinisilppuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "grilli harja",
+   "b": "grilliharja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "grilli pannu",
+   "b": "grillipannu",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "grilli ritila",
+   "b": "grilliritila",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "grilli varras",
+   "b": "grillivarras",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "halkaisu kiila",
+   "b": "halkaisukiila",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "halkaisu kirves",
+   "b": "halkaisukirves",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "halkomis kiila",
+   "b": "halkomiskiila",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hiili grilli",
+   "b": "hiiligrilli",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hydraulihalkoja",
+   "b": "hydraulinen halkoja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ilmastointi rulla",
+   "b": "ilmastointirulla",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "imu letku",
+   "b": "imuletku",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "istutus allas",
+   "b": "istutusallas",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "istutus kuokka",
+   "b": "istutuskuokka",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "istutus lapio",
+   "b": "istutuslapio",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "istutus ruukku",
+   "b": "istutusruukku",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "jaa piikki",
+   "b": "jaapiikki",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "jaa raappa",
+   "b": "jaaraappa",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kaasu grilli",
+   "b": "kaasugrilli",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kaato kirves",
+   "b": "kaatokirves",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kamado grilli",
+   "b": "kamadogrilli",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "karryn pyora",
+   "b": "karrynpyora",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kasi karry",
+   "b": "kasikarry",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kasi kirves",
+   "b": "kasikirves",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kasi ruisku",
+   "b": "kasiruisku",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kastelu ajastin",
+   "b": "kasteluajastin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kastelu jarjestelma",
+   "b": "kastelujarjestelma",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kastelu kannu",
+   "b": "kastelukannu",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kastelu letku",
+   "b": "kasteluletku",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kastelu ohjain",
+   "b": "kasteluohjain",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kastelu pallo",
+   "b": "kastelupallo",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kastelu pistooli",
+   "b": "kastelupistooli",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kastelu sarja",
+   "b": "kastelusarja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kastelu sauva",
+   "b": "kastelusauva",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kastelu suutin",
+   "b": "kastelusuutin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kastelu varsi",
+   "b": "kasteluvarsi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kastelu venttiili",
+   "b": "kasteluventtiili",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kasvatus hylly",
+   "b": "kasvatushylly",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kasvatus kaappi",
+   "b": "kasvatuskaappi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kasvatus laatikko",
+   "b": "kasvatuslaatikko",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kasvi huone",
+   "b": "kasvihuone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kasvihuone hylly",
+   "b": "kasvihuonehylly",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kasvihuone kaappi",
+   "b": "kasvihuonekaappi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kasvihuone muovi",
+   "b": "kasvihuonemuovi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kasvinsuojelu ruisku",
+   "b": "kasvinsuojeluruisku",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "katto lumilapio",
+   "b": "kattolumilapio",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kela leikkuri",
+   "b": "kelaleikkuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kerayspussi",
+   "b": "keruupussi",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "keruu pussi",
+   "b": "keruupussi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ketju oljy",
+   "b": "ketjuoljy",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ketju saha",
+   "b": "ketjusaha",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ketjuoljy",
+   "b": "teraketjuoljy",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kiila kirves",
+   "b": "kiilakirves",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kippi karry",
+   "b": "kippikarry",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kitkenta rauta",
+   "b": "kitkentarauta",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "klapi halkaisija",
+   "b": "klapihalkaisija",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "klapi koneikko",
+   "b": "klapikoneikko",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kolmio tera",
+   "b": "kolmiotera",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "komposti silppuri",
+   "b": "kompostisilppuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "korkeapaine pesuri",
+   "b": "korkeapainepesuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kukka laatikko",
+   "b": "kukkalaatikko",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kukka ruukku",
+   "b": "kukkaruukku",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kuljetus karry",
+   "b": "kuljetuskarry",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kuorma karry",
+   "b": "kuormakarry",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kuumavesi pesuri",
+   "b": "kuumavesipesuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kuumavesipainepesuri",
+   "b": "kuumavesipesuri",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kylma lava",
+   "b": "kylmalava",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kylmavesi pesuri",
+   "b": "kylmavesipesuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kylmavesipainepesuri",
+   "b": "kylmavesipesuri",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "latva saha",
+   "b": "latvasaha",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "latva sakset",
+   "b": "latvasakset",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lehti harava",
+   "b": "lehtiharava",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lehti imuri",
+   "b": "lehti-imuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lehti keraaja",
+   "b": "lehtikeraaja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lehti puhallin",
+   "b": "lehtipuhallin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lehti silppuri",
+   "b": "lehtisilppuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lehtienkeraaja",
+   "b": "lehtikeraaja",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lehtipuhallin-imuri",
+   "b": "lehtipuhallinimuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "leikkaustera",
+   "b": "leikkuutera",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "leikkuu tera",
+   "b": "leikkuutera",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "letku karry",
+   "b": "letkukarry",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "letku kela",
+   "b": "letkukela",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "letku liitin",
+   "b": "letkuliitin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "letku ohjain",
+   "b": "letkuohjain",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "letku pidike",
+   "b": "letkupidike",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "letku teline",
+   "b": "letkuteline",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "letku vaunu",
+   "b": "letkuvaunu",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "letkun jatko",
+   "b": "letkunjatko",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "liiketunnistin valo",
+   "b": "liiketunnistinvalo",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lumi harja",
+   "b": "lumiharja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lumi kola",
+   "b": "lumikola",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lumi lapio",
+   "b": "lumilapio",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lumi linko",
+   "b": "lumilinko",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lumi tyonnin",
+   "b": "lumityonnin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "maa jyrsin",
+   "b": "maajyrsin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "maa valaisin",
+   "b": "maavalaisin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "maan muokkain",
+   "b": "maanmuokkain",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "metsa kirves",
+   "b": "metsakirves",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "metsa raivaussaha",
+   "b": "metsaraivaussaha",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "mini jyrsin",
+   "b": "minijyrsin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "mini kasvihuone",
+   "b": "minikasvihuone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "moottori kottikarryt",
+   "b": "moottorikottikarryt",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "moottori saha",
+   "b": "moottorisaha",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "multa jyrsin",
+   "b": "multajyrsin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "nokka karry",
+   "b": "nokkakarry",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "nokkakarry",
+   "b": "sakkikarry",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "nurmikko traktori",
+   "b": "nurmikkotraktori",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "nurmikon pystyleikkuri",
+   "b": "nurmikonpystyleikkuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "nurmikon reunaleikkuri",
+   "b": "nurmikonreunaleikkuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "oksa hakkuri",
+   "b": "oksahakkuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "oksa leikkuri",
+   "b": "oksaleikkuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "oksa saha",
+   "b": "oksasaha",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "oksa sakset",
+   "b": "oksasakset",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "oksa silppuri",
+   "b": "oksasilppuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "oksastusveitsi",
+   "b": "varttamaveitsi",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "olka ruisku",
+   "b": "olkaruisku",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "paine letku",
+   "b": "paineletku",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "paine pesuri",
+   "b": "painepesuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "paine ruisku",
+   "b": "paineruisku",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pallo grilli",
+   "b": "pallogrilli",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "parveke laatikko",
+   "b": "parvekelaatikko",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pensas leikkuri",
+   "b": "pensasleikkuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pensas sakset",
+   "b": "pensassakset",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pensasaita leikkuri",
+   "b": "pensasaitaleikkuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pensasaita sakset",
+   "b": "pensasaitasakset",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pensasaita veitsi",
+   "b": "pensasaitaveitsi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pesu harja",
+   "b": "pesuharja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pesu letku",
+   "b": "pesuletku",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pesu pistooli",
+   "b": "pesupistooli",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pesu suutin",
+   "b": "pesusuutin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "piha keinu",
+   "b": "pihakeinu",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "piha lyhty",
+   "b": "pihalyhty",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "piha poyta",
+   "b": "pihapoyta",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "piha tuoli",
+   "b": "pihatuoli",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "piha valaisin",
+   "b": "pihavalaisin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pihakalusto",
+   "b": "puutarhakalusto",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pihakeinu",
+   "b": "puutarhakeinu",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pihapenkki",
+   "b": "puutarhapenkki",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "piikki rulla",
+   "b": "piikkirulla",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "piilu",
+   "b": "piilukirves",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "piilu kirves",
+   "b": "piilukirves",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pika liitin",
+   "b": "pikaliitin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pisto lapio",
+   "b": "pistolapio",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pollari valaisin",
+   "b": "pollarivalaisin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "polttopuu kone",
+   "b": "polttopuukone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "poyta grilli",
+   "b": "poytagrilli",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "puhallin putki",
+   "b": "puhallinputki",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pumppu ruisku",
+   "b": "pumppuruisku",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "puu hakkuri",
+   "b": "puuhakkuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "puu murskain",
+   "b": "puumurskain",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "puun halkaisukone",
+   "b": "puunhalkaisukone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "puutarha jyrsin",
+   "b": "puutarhajyrsin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "puutarha kalusto",
+   "b": "puutarhakalusto",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "puutarha karry",
+   "b": "puutarhakarry",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "puutarha letku",
+   "b": "puutarhaletku",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "puutarha penkki",
+   "b": "puutarhapenkki",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "puutarha poyta",
+   "b": "puutarhapoyta",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "puutarha ruisku",
+   "b": "puutarharuisku",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "puutarha sakset",
+   "b": "puutarhasakset",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "puutarha silppuri",
+   "b": "puutarhasilppuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "puutarha talikko",
+   "b": "puutarhatalikko",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "puutarha tuoli",
+   "b": "puutarhatuoli",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pysty leikkuri",
+   "b": "pystyleikkuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "raivaus saha",
+   "b": "raivaussaha",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "raivaus sakset",
+   "b": "raivaussakset",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "raivaus tera",
+   "b": "raivaustera",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "raivaus trimmeri",
+   "b": "raivaustrimmeri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "raivaus valjaat",
+   "b": "raivausvaljaat",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "raivausveitsi",
+   "b": "vesuri",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "reppu puhallin",
+   "b": "reppupuhallin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "reppu ruisku",
+   "b": "reppuruisku",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "reppuruisku",
+   "b": "selkaruisku",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "retki kirves",
+   "b": "retkikirves",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "reuna leikkuri",
+   "b": "reunaleikkuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "riippu keinu",
+   "b": "riippukeinu",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "rikkaruoho rauta",
+   "b": "rikkaruohorauta",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "risu hakkuri",
+   "b": "risuhakkuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "risu murskain",
+   "b": "risumurskain",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "rivivali kultivaattori",
+   "b": "rivivalikultivaattori",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "robotti ruohonleikkuri",
+   "b": "robottiruohonleikkuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "robottileikkuri",
+   "b": "robottiruohonleikkuri",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ruisku pistooli",
+   "b": "ruiskupistooli",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ruoho raivuri",
+   "b": "ruohoraivuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ruoho trimmeri",
+   "b": "ruohotrimmeri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ruohon leikkuri",
+   "b": "ruohonleikkuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ruohonleikkuri",
+   "b": "ruohonleikkuukone",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ruukku alunen",
+   "b": "ruukkualunen",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ruusu sakset",
+   "b": "ruususakset",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sadetin jarjestelma",
+   "b": "sadetinjarjestelma",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sahaketju",
+   "b": "teraketju",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sahko grilli",
+   "b": "sahkogrilli",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sahko ilmaaja",
+   "b": "sahkoilmaaja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sahko jyrsin",
+   "b": "sahkojyrsin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sahko ketjusaha",
+   "b": "sahkoketjusaha",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sahko lehtipuhallin",
+   "b": "sahkolehtipuhallin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sahko pensasleikkuri",
+   "b": "sahkopensasleikkuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sahko ruohonleikkuri",
+   "b": "sahkoruohonleikkuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sahko saha",
+   "b": "sahkosaha",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sahko silppuri",
+   "b": "sahkosilppuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sahko trimmeri",
+   "b": "sahkotrimmeri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sammaleen poistaja",
+   "b": "sammaleenpoistaja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "seina kasvihuone",
+   "b": "seinakasvihuone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "seina valaisin",
+   "b": "seinavalaisin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "siima leikkuri",
+   "b": "siimaleikkuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sisa rengas",
+   "b": "sisarengas",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sohva ryhma",
+   "b": "sohvaryhma",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "spiraali letku",
+   "b": "spiraaliletku",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "suihkepullo",
+   "b": "sumutinpullo",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "suihkepullo",
+   "b": "sumutuspullo",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "suihku suutin",
+   "b": "suihkusuutin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sumutin pullo",
+   "b": "sumutinpullo",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sumutinpullo",
+   "b": "sumutuspullo",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "taimi kasvihuone",
+   "b": "taimikasvihuone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "taimi kenno",
+   "b": "taimikenno",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "teleskooppi pensasleikkuri",
+   "b": "teleskooppipensasleikkuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "teleskooppi saha",
+   "b": "teleskooppisaha",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "teleskooppi sakset",
+   "b": "teleskooppisakset",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tera kasetti",
+   "b": "terakasetti",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tera ketju",
+   "b": "teraketju",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tera suoja",
+   "b": "terasuoja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "terassi pesuri",
+   "b": "terassipesuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "terassi valaisin",
+   "b": "terassivalaisin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tihku kastelu",
+   "b": "tihkukastelu",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tihku letku",
+   "b": "tihkuletku",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "timpurin kirves",
+   "b": "timpurinkirves",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tippa letku",
+   "b": "tippuletku",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "traktori leikkuri",
+   "b": "traktorileikkuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "trimmerin siima",
+   "b": "trimmerisiima",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tunneli kasvihuone",
+   "b": "tunnelikasvihuone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ulko spotti",
+   "b": "ulkospotti",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ulko valaisin",
+   "b": "ulkovalaisin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ulkoseina valaisin",
+   "b": "ulkoseinavalaisin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vaahdotuspullo",
+   "b": "vaahtopullo",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vaahto pullo",
+   "b": "vaahtopullo",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "valo sarja",
+   "b": "valosarja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vara pyora",
+   "b": "varapyora",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "varttamaveitsi",
+   "b": "varttamis veitsi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vesakko tera",
+   "b": "vesakkotera",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vesi letku",
+   "b": "vesiletku",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vesi posti",
+   "b": "vesiposti",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vesi sailio",
+   "b": "vesisailio",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "viljely laatikko",
+   "b": "viljelylaatikko",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ajettava ruohonleikkuri",
+   "b": "ajoleikkuri",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "akkuketjusaha",
+   "b": "akkumoottorisaha",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "aurinkokennovalo",
+   "b": "aurinkovalo",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "bensaruohonleikkuri",
+   "b": "bensiiniruohonleikkuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "bensiiniketjusaha",
+   "b": "bensiinimoottorisaha",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "bioleikkuri",
+   "b": "silppuava ruohonleikkuri",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "haketin",
+   "b": "hakkuri",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "halkaisukirves",
+   "b": "kiilakirves",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hiekoitin",
+   "b": "hiekoituslaite",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kasiruisku",
+   "b": "kasisumutin",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kasteluajastin",
+   "b": "vesiajastin",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kasvatuslaatikko",
+   "b": "viljelylaatikko",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kelaleikkuri",
+   "b": "kelaruohonleikkuri",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kitkentarauta",
+   "b": "rikkaruohorauta",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "klapihalkaisija",
+   "b": "klapihalkoja",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kylvokenno",
+   "b": "taimikenno",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "maajyrsin",
+   "b": "puutarhajyrsin",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "multajyrsin",
+   "b": "puutarhajyrsin",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "paineruisku",
+   "b": "painesumutin",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pitkavartinen pensasleikkuri",
+   "b": "varrellinen pensasleikkuri",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "puhallin suutin",
+   "b": "puhallussuutin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "puusepankirves",
+   "b": "timpurinkirves",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "raivaussaha",
+   "b": "vesakkoraivuri",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ruukkualunen",
+   "b": "ruukun aluslautanen",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sadetin",
+   "b": "sprinkleri",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sahkoketjusaha",
+   "b": "sahkomoottorisaha",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "savustin",
+   "b": "savustuslaite",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "teleskooppisaha",
+   "b": "varrellinen oksasaha",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tippa kastelu",
+   "b": "tippukastelu",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "trimmerin paa",
+   "b": "trimmeripaa",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tyonnettava leikkuri",
+   "b": "tyonnettava ruohonleikkuri",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vesakkoraivain",
+   "b": "vesakkoraivuri",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "decktuoli",
+   "b": "kansituoli",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.68,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kultivaattori",
+   "b": "moyhennin",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.68,
+   "votes": 1,
+   "critic": 1.0
+  }
+ ]
+}

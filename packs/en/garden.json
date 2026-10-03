@@ -1,0 +1,3356 @@
+{
+ "format": 1,
+ "lang": "en",
+ "vertical": "garden",
+ "version": "2026-10-03",
+ "license": "CC-BY-4.0",
+ "source": "searchmaker-language-packs",
+ "generator": {
+  "models": [
+   "chatgpt"
+  ],
+  "prompt_version": [
+   "2"
+  ],
+  "passes": 1,
+  "thresholds": {
+   "min_agreement": 0.66,
+   "min_conf": 0.6,
+   "min_critic": 0.67
+  },
+  "critic": true
+ },
+ "review": {
+  "native_speaker_checked": false,
+  "note": "Generated data. Review before shipping."
+ },
+ "dropped": {
+  "critic": 50,
+  "too_long": 78,
+  "broader": 36,
+  "model_number": 1
+ },
+ "pairs": [
+  {
+   "a": "branch saw",
+   "b": "pruning saw",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 1.0,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "garden cart",
+   "b": "yard cart",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 1.0,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "garden tiller",
+   "b": "rototiller",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 1.0,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "hand axe",
+   "b": "hatchet",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 1.0,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "hedge cutter",
+   "b": "hedge trimmer",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 1.0,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "irrigation timer",
+   "b": "watering timer",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 1.0,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "line trimmer",
+   "b": "string trimmer",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 1.0,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "log splitter",
+   "b": "wood splitter",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 1.0,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "nylon line",
+   "b": "trimmer line",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 1.0,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "pressure sprayer",
+   "b": "pump sprayer",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 1.0,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "pruning shears",
+   "b": "secateurs",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 1.0,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "watering lance",
+   "b": "watering wand",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 1.0,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "garden chair",
+   "b": "patio chair",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.97,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "garden table",
+   "b": "patio table",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.97,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "brush cutter",
+   "b": "clearing saw",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.94,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "cultivator tine",
+   "b": "tiller tine",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.94,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "garden cart",
+   "b": "utility cart",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.94,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "grass trimmer",
+   "b": "line trimmer",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.94,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "hose nozzle",
+   "b": "spray nozzle",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.94,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "impact sprinkler",
+   "b": "pulsating sprinkler",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.94,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "patio cleaner",
+   "b": "surface cleaner",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.94,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "snow scoop",
+   "b": "snow shovel",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.94,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "string trimmer",
+   "b": "weed trimmer",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.94,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "aerating roller",
+   "b": "aerator roller",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "anvil pruner",
+   "b": "anvil secateurs",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ax",
+   "b": "axe",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "backpack sprayer",
+   "b": "knapsack sprayer",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "bar oil",
+   "b": "chain oil",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "barbecue",
+   "b": "bbq",
+   "type": "abbreviation",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "barbecue brush",
+   "b": "grill brush",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "barbecue cover",
+   "b": "grill cover",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "barbecue grate",
+   "b": "cooking grate",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "barbecue grate",
+   "b": "grill grate",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "barbecue smoker",
+   "b": "smoker",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "barbecue tongs",
+   "b": "grill tongs",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "barrow tray",
+   "b": "wheelbarrow tray",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "barrow tyre",
+   "b": "wheelbarrow tyre",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "barrow wheel",
+   "b": "wheelbarrow wheel",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "battery blower",
+   "b": "cordless blower",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "battery brushcutter",
+   "b": "cordless brushcutter",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "battery chainsaw",
+   "b": "cordless chainsaw",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "battery mower",
+   "b": "cordless mower",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "battery scarifier",
+   "b": "cordless scarifier",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "battery sprayer",
+   "b": "battery-powered sprayer",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "battery sprayer",
+   "b": "cordless sprayer",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "battery tiller",
+   "b": "cordless tiller",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "battery trimmer",
+   "b": "cordless trimmer",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "bbq cover",
+   "b": "grill cover",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "bbq smoker",
+   "b": "smoker",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "bbq tongs",
+   "b": "grill tongs",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "blow tube",
+   "b": "blower tube",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "blower vac",
+   "b": "blower vacuum",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "bollard lamp",
+   "b": "bollard light",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "branch chipper",
+   "b": "branch shredder",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "branch loppers",
+   "b": "loppers",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "brush cutter",
+   "b": "brushcutter",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "brush trimmer",
+   "b": "brushcutter",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "bypass pruner",
+   "b": "bypass secateurs",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "chain file",
+   "b": "chainsaw file",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "chain oil",
+   "b": "chainsaw oil",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "chain saw",
+   "b": "chainsaw",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "chain sharpener",
+   "b": "chainsaw sharpener",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "chainsaw bar",
+   "b": "guide bar",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "chainsaw chain",
+   "b": "saw chain",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "charcoal barbecue",
+   "b": "charcoal grill",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "chipper blade",
+   "b": "chipper knife",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "clipping catcher",
+   "b": "clippings catcher",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "coil hose",
+   "b": "coiled hose",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "coil hose",
+   "b": "spiral hose",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "collapsible cart",
+   "b": "folding cart",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "collection bag",
+   "b": "collection sack",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "compression sprayer",
+   "b": "pressure sprayer",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "cordless cultivator",
+   "b": "cordless tiller",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "cordless lawnmower",
+   "b": "cordless mower",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "cylinder mower",
+   "b": "reel mower",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "dethatcher",
+   "b": "lawn dethatcher",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "dethatching rake",
+   "b": "thatch rake",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "digging fork",
+   "b": "garden fork",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "disc chipper",
+   "b": "disk chipper",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "drip irrigation",
+   "b": "drip system",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "drip line",
+   "b": "dripline",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "dump cart",
+   "b": "tipping cart",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "edge trimmer",
+   "b": "edging trimmer",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "edger",
+   "b": "lawn edger",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "electric barbecue",
+   "b": "electric grill",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "electric cultivator",
+   "b": "electric tiller",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "electric lawnmower",
+   "b": "electric mower",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "expandable hose",
+   "b": "expanding hose",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "extension lance",
+   "b": "extension wand",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "exterior light",
+   "b": "outdoor light",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "feed chute",
+   "b": "feeding chute",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "feed hopper",
+   "b": "hopper",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "flat hose",
+   "b": "layflat hose",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "flood light",
+   "b": "floodlight",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "floodlamp",
+   "b": "floodlight",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "flower pot",
+   "b": "flowerpot",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "flower pot",
+   "b": "plant pot",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "flowerpot",
+   "b": "plant pot",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "flowerpot saucer",
+   "b": "plant saucer",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "foam cannon",
+   "b": "foam lance",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "foldable saw",
+   "b": "folding saw",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "forest axe",
+   "b": "forestry axe",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "furrow opener",
+   "b": "furrower",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "garden bench",
+   "b": "outdoor bench",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "garden chair",
+   "b": "outdoor chair",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "garden cultivator",
+   "b": "soil cultivator",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "garden lantern",
+   "b": "outdoor lantern",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "garden lounger",
+   "b": "sun lounger",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "garden scissors",
+   "b": "gardening scissors",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "garden scoop",
+   "b": "soil scoop",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "garden sofa",
+   "b": "outdoor sofa",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "garden stool",
+   "b": "outdoor stool",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "garden swing",
+   "b": "porch swing",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "garden table",
+   "b": "outdoor table",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "garden trowel",
+   "b": "hand trowel",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "gas barbecue",
+   "b": "gas grill",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "glass greenhouse",
+   "b": "glasshouse",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "glasshouse",
+   "b": "greenhouse",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "grass aerator",
+   "b": "lawn aerator",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "grass shear",
+   "b": "grass shears",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "grass trimmer",
+   "b": "lawn trimmer",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "greenhouse film",
+   "b": "greenhouse plastic",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "greenhouse shelves",
+   "b": "greenhouse shelving",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "grow bag",
+   "b": "growing bag",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hammock chair",
+   "b": "hanging chair",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hand pruners",
+   "b": "pruning shears",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hand sprayer",
+   "b": "handheld sprayer",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hanging basket",
+   "b": "hanging planter",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "high-pressure hose",
+   "b": "pressure hose",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "high-pressure washer",
+   "b": "pressure washer",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hiller",
+   "b": "ridger",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hose cart",
+   "b": "hose trolley",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hose clamp",
+   "b": "hose clip",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hose connector",
+   "b": "hose coupling",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hose connector",
+   "b": "hose fitting",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hose hanger",
+   "b": "hose holder",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hose timer",
+   "b": "irrigation timer",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ice breaker",
+   "b": "ice chopper",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ice scrapper",
+   "b": "ice scraper",
+   "type": "misspelling",
+   "dir": "a>b",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "impact sprinkler",
+   "b": "impulse sprinkler",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "intake hose",
+   "b": "suction hose",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "irrigation controller",
+   "b": "watering controller",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "irrigation kit",
+   "b": "watering kit",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "irrigation system",
+   "b": "watering system",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "irrigation valve",
+   "b": "watering valve",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kettle barbecue",
+   "b": "kettle grill",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lawn mower",
+   "b": "lawnmower",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "leaf vac",
+   "b": "leaf vacuum",
+   "type": "abbreviation",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "log hook",
+   "b": "timber hook",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "log lift",
+   "b": "log lifter",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "log maul",
+   "b": "splitting maul",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "loppers",
+   "b": "pruning loppers",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "micro irrigation",
+   "b": "micro-irrigation",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "mini cultivator",
+   "b": "mini tiller",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "motion light",
+   "b": "sensor light",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "mulch mower",
+   "b": "mulching mower",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "outdoor chair",
+   "b": "patio chair",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "outdoor light",
+   "b": "outside light",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "outdoor sofa",
+   "b": "patio sofa",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "outdoor table",
+   "b": "patio table",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "path light",
+   "b": "pathway light",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "petrol cultivator",
+   "b": "petrol tiller",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "petrol lawnmower",
+   "b": "petrol mower",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pickaroon",
+   "b": "pickeroon",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "plant saucer",
+   "b": "pot saucer",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "plant trough",
+   "b": "planter trough",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pole chainsaw",
+   "b": "pole saw",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "poly tunnel",
+   "b": "polytunnel",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "porch swing",
+   "b": "swing bench",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "porous hose",
+   "b": "soaker hose",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "power washer",
+   "b": "pressure washer",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "propagation tray",
+   "b": "seed tray",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pulsating sprinkler",
+   "b": "pulse sprinkler",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ride-on mower",
+   "b": "riding mower",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "robot lawnmower",
+   "b": "robot mower",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "robot mower",
+   "b": "robotic mower",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "rose attachment",
+   "b": "watering rose",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "rotary nozzle",
+   "b": "turbo nozzle",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "rotary sprinkler",
+   "b": "rotating sprinkler",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "rotary tiller",
+   "b": "rototiller",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "scarifier blade",
+   "b": "scarifying blade",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "scarifier roller",
+   "b": "scarifying roller",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "seed tray",
+   "b": "seedling tray",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "shrub shear",
+   "b": "shrub shears",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "snow blower",
+   "b": "snow thrower",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "snow blower",
+   "b": "snowblower",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "snow broom",
+   "b": "snow brush",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "solar lamp",
+   "b": "solar light",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "solar light",
+   "b": "solar-powered light",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "splitting grenade",
+   "b": "wood grenade",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "spray lance",
+   "b": "spray wand",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "spray lance",
+   "b": "sprayer lance",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sprinkler",
+   "b": "water sprinkler",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sun lounger",
+   "b": "sunbed",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "table grill",
+   "b": "tabletop grill",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tap timer",
+   "b": "watering timer",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "trigger spray",
+   "b": "trigger sprayer",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "trimmer blade",
+   "b": "trimming blade",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "twin-wheel barrow",
+   "b": "two-wheel barrow",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "two-wheel barrow",
+   "b": "two-wheeled wheelbarrow",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "wall lamp",
+   "b": "wall light",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "wall light",
+   "b": "wall-mounted light",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "wash brush",
+   "b": "washing brush",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "weed puller",
+   "b": "weed remover",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "wheelbarrow tire",
+   "b": "wheelbarrow tyre",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "wheelbarrow tray",
+   "b": "wheelbarrow tub",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "window box",
+   "b": "window planter",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "aerator",
+   "b": "lawn aerator",
+   "type": "abbreviation",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "arborist saw",
+   "b": "pruning saw",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "backpack blower",
+   "b": "rucksack blower",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "backpack spray",
+   "b": "backpack sprayer",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "bar cover",
+   "b": "scabbard",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "barbecue",
+   "b": "grill",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "barrow",
+   "b": "wheelbarrow",
+   "type": "abbreviation",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "bicycle handlebar",
+   "b": "bike handle",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "blade cover",
+   "b": "blade guard",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "blower",
+   "b": "leaf blower",
+   "type": "abbreviation",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "blower pipe",
+   "b": "blower tube",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "bollard light",
+   "b": "post light",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "branch saw",
+   "b": "limb saw",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "brush cutter",
+   "b": "brush trimmer",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "brush saw",
+   "b": "clearing saw",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "brushcutter blade",
+   "b": "clearing blade",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "bulb dibber",
+   "b": "bulb planter",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "bush shear",
+   "b": "shrub shear",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "bypass pruner",
+   "b": "bypass shears",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "catcher bag",
+   "b": "collection bag",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "chain grinder",
+   "b": "chain sharpener",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "charcoal grill",
+   "b": "coal grill",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "chipper",
+   "b": "wood chipper",
+   "type": "abbreviation",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "circular nozzle",
+   "b": "round nozzle",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "cleaning brush",
+   "b": "wash brush",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "cold frame",
+   "b": "coldframe",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "compact tiller",
+   "b": "mini tiller",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "cross wedge",
+   "b": "four-way wedge",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "cultivator tine",
+   "b": "cultivator tooth",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "cutter blade",
+   "b": "cutting blade",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "cutting head",
+   "b": "trimmer head",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "cutting line",
+   "b": "nylon line",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "d-handle",
+   "b": "loop handle",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "de-icer spreader",
+   "b": "salt spreader",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "dethatcher blade",
+   "b": "scarifier blade",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "dethatching rake",
+   "b": "scarifying rake",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "dethatching roller",
+   "b": "scarifier roller",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "dirt blaster",
+   "b": "turbo nozzle",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "drip hose",
+   "b": "drip line",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "drip irrigation",
+   "b": "trickle irrigation",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "dump cart",
+   "b": "dump wagon",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "edge cutter",
+   "b": "edger",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "electric bbq",
+   "b": "electric grill",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "electric chipper",
+   "b": "electric shredder",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "electric dethatcher",
+   "b": "electric scarifier",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "elevated bed",
+   "b": "raised bed",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "expandable hose",
+   "b": "stretch hose",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "extension lance",
+   "b": "lance extension",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "fairy lights",
+   "b": "string lights",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "feed chute",
+   "b": "inlet chute",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "felling wedge",
+   "b": "logging wedge",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "flat nozzle",
+   "b": "flat tip",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "flower planter",
+   "b": "planter",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "flower trough",
+   "b": "plant trough",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "foam gun",
+   "b": "foam sprayer",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "foam sprayer",
+   "b": "foamer",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "foldable wagon",
+   "b": "folding cart",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "forest axe",
+   "b": "woodsman axe",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "frost scraper",
+   "b": "ice scraper",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "furrow plough",
+   "b": "furrower",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "garden bench",
+   "b": "patio bench",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "garden blower",
+   "b": "leaf blower",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "garden chipper",
+   "b": "garden shredder",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "garden claw",
+   "b": "hand cultivator",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "garden fork",
+   "b": "spading fork",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "garden hose",
+   "b": "water hose",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "garden lamp",
+   "b": "garden light",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "garden scissors",
+   "b": "garden shears",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "garden shredder",
+   "b": "shredder",
+   "type": "abbreviation",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "garden sprayer",
+   "b": "yard sprayer",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "garden stool",
+   "b": "patio stool",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "garden tractor",
+   "b": "lawn tractor",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "garden vacuum",
+   "b": "leaf vacuum",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "gas blower",
+   "b": "petrol blower",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "gas brushcutter",
+   "b": "petrol brushcutter",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "gas chainsaw",
+   "b": "petrol chainsaw",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "gas chipper",
+   "b": "petrol chipper",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "gas mower",
+   "b": "petrol mower",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "gas scarifier",
+   "b": "petrol scarifier",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "gas tiller",
+   "b": "petrol tiller",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "gas trimmer",
+   "b": "petrol trimmer",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "glass greenhouse",
+   "b": "glazed greenhouse",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "glasshouse heater",
+   "b": "greenhouse heater",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "grass shear",
+   "b": "lawn shears",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "greenhouse heater",
+   "b": "greenhouse warmer",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "greenhouse shelving",
+   "b": "staging",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "grit broadcaster",
+   "b": "grit spreader",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "grit spreader",
+   "b": "salt spreader",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ground lamp",
+   "b": "ground light",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "grow bag",
+   "b": "planter bag",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "grow pot",
+   "b": "nursery pot",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "guide bar",
+   "b": "guidebar",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hand axe",
+   "b": "small axe",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hand sprayer",
+   "b": "manual sprayer",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hand trolley",
+   "b": "hand truck",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hand trolley",
+   "b": "sack truck",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hand trowel",
+   "b": "trowel",
+   "type": "abbreviation",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hanging basket",
+   "b": "hanging pot",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hatchet",
+   "b": "small axe",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hedge clipper",
+   "b": "hedge cutter",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hedge clipper",
+   "b": "hedge trimmer",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hedge scissors",
+   "b": "hedge shears",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "herbicide sprayer",
+   "b": "weed sprayer",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hoop house",
+   "b": "polytunnel",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hopper",
+   "b": "loading hopper",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hose hanger",
+   "b": "hose rack",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hose manifold",
+   "b": "hose splitter",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hose wand",
+   "b": "watering wand",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "irrigation computer",
+   "b": "irrigation controller",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "irrigation valve",
+   "b": "sprinkler valve",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kindling cracker",
+   "b": "kindling splitter",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kindling cutter",
+   "b": "kindling splitter",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lawn tractor",
+   "b": "lawntractor",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lawnmower",
+   "b": "mower",
+   "type": "abbreviation",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lean-to greenhouse",
+   "b": "wall greenhouse",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lifting hook",
+   "b": "log hook",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "log cradle",
+   "b": "log holder",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "log cradle",
+   "b": "log support",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "log pick",
+   "b": "pickaroon",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "long-reach pruner",
+   "b": "pole pruner",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "long-reach saw",
+   "b": "pole saw",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "loop grip",
+   "b": "loop handle",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "mini greenhouse",
+   "b": "small greenhouse",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "mister",
+   "b": "plant mister",
+   "type": "abbreviation",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "oscillating sprinkler",
+   "b": "rectangular sprinkler",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "path lamp",
+   "b": "path light",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "patio cleaner",
+   "b": "terrace cleaner",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "patio lamp",
+   "b": "patio light",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "patio light",
+   "b": "terrace light",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "plant pot",
+   "b": "planter pot",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "potting scoop",
+   "b": "soil scoop",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pump sprayer",
+   "b": "pump-up sprayer",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "replacement handles",
+   "b": "spare handles",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ridger",
+   "b": "ridging plough",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "rose attachment",
+   "b": "rose head",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "round nozzle",
+   "b": "round tip",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "salt broadcaster",
+   "b": "salt spreader",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "seep hose",
+   "b": "soaker hose",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "self-drive mower",
+   "b": "self-propelled mower",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "self-irrigating pot",
+   "b": "self-watering pot",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "snow brush",
+   "b": "winter brush",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "snow shovel",
+   "b": "snow spade",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "splitter axe",
+   "b": "splitting axe",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "splitter wedge",
+   "b": "splitting wedge",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "spray bottle",
+   "b": "sprayer bottle",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "spray gun",
+   "b": "spray pistol",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "spray head",
+   "b": "trigger sprayer",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "spray nozzle",
+   "b": "spray tip",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "strimmer head",
+   "b": "trimmer head",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "strimmer line",
+   "b": "trimmer line",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tiller blade",
+   "b": "tiller tine",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "timber chipper",
+   "b": "wood chipper",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "timber shredder",
+   "b": "wood shredder",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "upright splitter",
+   "b": "vertical splitter",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "utility cart",
+   "b": "yard cart",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "watering can",
+   "b": "wateringcan",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "weed eater",
+   "b": "weed trimmer",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "drum chipper",
+   "b": "drum shredder",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.68,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "garden hose",
+   "b": "hose",
+   "type": "abbreviation",
+   "dir": "both",
+   "conf": 0.68,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hose reel",
+   "b": "reel",
+   "type": "abbreviation",
+   "dir": "both",
+   "conf": 0.68,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "polycarbonate glasshouse",
+   "b": "polycarbonate greenhouse",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.68,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "service cart",
+   "b": "utility cart",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.68,
+   "votes": 1,
+   "critic": 1.0
+  }
+ ]
+}

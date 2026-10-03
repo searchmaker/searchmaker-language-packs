@@ -1,0 +1,283 @@
+all-purpose cleaner
+glass cleaner
+bathroom cleaner
+kitchen cleaner
+floor cleaner
+toilet cleaner
+descaler
+disinfectant
+oven cleaner
+carpet cleaner
+furniture polish
+drain cleaner
+laundry detergent
+washing powder
+liquid detergent
+laundry pods
+fabric softener
+stain remover
+colour detergent
+delicates detergent
+wool detergent
+laundry sanitizer
+laundry bleach
+toilet paper
+paper towels
+tissues
+facial tissues
+napkins
+baking paper
+wax paper
+aluminium foil
+cling film
+trash bags
+freezer bags
+paper plates
+storage box
+storage bin
+plastic box
+basket
+crate
+shoe box
+underbed box
+vacuum bag
+storage bag
+drawer box
+organizer bin
+food container
+coat hanger
+drawer divider
+cutlery tray
+document tray
+magazine holder
+cable organizer
+hook rack
+shoe rack
+clothes rack
+laundry basket
+desk organizer
+shelf insert
+soap dispenser
+toothbrush holder
+toilet brush
+shower caddy
+shower curtain
+bath mat
+towel rail
+vanity mirror
+bathroom shelf
+bath tray
+shower basket
+shower gel
+body lotion
+hand cream
+deodorant
+bar soap
+liquid soap
+lip balm
+sunscreen
+face cream
+body oil
+hand sanitizer
+foot cream
+toothpaste
+toothbrush
+mouthwash
+dental floss
+interdental brush
+tongue scraper
+tooth powder
+toothbrush cup
+water flosser
+toothbrush head
+toothpick
+denture cleaner
+shampoo
+conditioner
+hair mask
+hairspray
+hair gel
+hair wax
+dry shampoo
+hair oil
+hairbrush
+comb
+hair tie
+hair clip
+razor
+disposable razor
+electric shaver
+razor blade
+shaving foam
+shaving gel
+shaving soap
+shaving brush
+beard trimmer
+aftershave
+safety razor
+beard oil
+nail clipper
+nail file
+tweezers
+manicure set
+pedicure set
+nail scissors
+foot file
+pumice stone
+face roller
+eyelash curler
+makeup brush
+cosmetic bag
+diapers
+baby wipes
+baby oil
+baby shampoo
+baby lotion
+nappy cream
+baby wash
+bib
+pacifier
+baby bottle
+bottle brush
+changing mat
+dog food
+cat food
+cat litter
+dog leash
+pet collar
+dog harness
+pet bowl
+cat toy
+dog toy
+scratching post
+pet brush
+pet carrier
+luggage tag
+travel pillow
+sleep mask
+travel adapter
+toiletry bag
+packing cube
+luggage strap
+travel bottle
+travel case
+luggage scale
+passport holder
+travel wallet
+backpack
+handbag
+shoulder bag
+gym bag
+duffel bag
+tote bag
+shopping bag
+waist bag
+laptop bag
+messenger bag
+cooler bag
+ballpoint pen
+pencil
+fountain pen
+highlighter
+marker
+colored pencil
+eraser
+pencil sharpener
+ruler
+notebook
+envelope
+glue stick
+binder
+file folder
+hole punch
+stapler
+staples
+paper clips
+tape
+scissors
+labels
+printer paper
+letter tray
+document wallet
+battery
+alkaline battery
+button cell
+rechargeable battery
+AA battery
+AAA battery
+battery tester
+battery holder
+battery charger
+lithium battery
+light bulb
+LED bulb
+halogen bulb
+flashlight
+headlamp
+night light
+desk lamp
+floor lamp
+ceiling light
+string lights
+reading light
+work light
+phone case
+screen protector
+charging cable
+wall charger
+power bank
+phone holder
+selfie stick
+headphone adapter
+SIM adapter
+wireless charger
+phone lanyard
+mouse
+keyboard
+mouse pad
+webcam
+USB hub
+laptop stand
+laptop sleeve
+privacy filter
+card reader
+Ethernet cable
+docking station
+headphones
+earbuds
+speaker
+Bluetooth speaker
+audio cable
+microphone
+headphone stand
+speaker stand
+ear pads
+microphone arm
+audio adapter
+coffee filter
+straws
+toothpicks
+disposable gloves
+smoke alarm
+fire extinguisher
+fire blanket
+safety vest
+door stop
+corner guard
+socket cover
+non-slip mat
+reflector
+warning sign
+emergency hammer
+Christmas bauble
+tinsel
+advent calendar
+Easter decoration
+gift wrap
+gift ribbon
+sparkler
+Halloween mask
+party hat
+balloon
+garland
+confetti

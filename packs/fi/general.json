@@ -1,0 +1,3041 @@
+{
+ "format": 1,
+ "lang": "fi",
+ "vertical": "general",
+ "version": "2026-10-03",
+ "license": "CC-BY-4.0",
+ "source": "searchmaker-language-packs",
+ "generator": {
+  "models": [
+   "chatgpt"
+  ],
+  "prompt_version": [
+   "2"
+  ],
+  "passes": 1,
+  "thresholds": {
+   "min_agreement": 0.66,
+   "min_conf": 0.6,
+   "min_critic": 0.67
+  },
+  "critic": true
+ },
+ "review": {
+  "native_speaker_checked": false,
+  "note": "Generated data. Review before shipping."
+ },
+ "dropped": {
+  "identical": 2,
+  "critic": 17,
+  "denylist": 11,
+  "broader": 7
+ },
+ "pairs": [
+  {
+   "a": "tyhjiopussi",
+   "b": "vakuumipussi",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 1.0,
+   "votes": 2,
+   "critic": 1.0
+  },
+  {
+   "a": "adventti kynttila",
+   "b": "adventtikynttila",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ajo paa",
+   "b": "ajopaa",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "akku laturi",
+   "b": "akkulaturi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "akku paketti",
+   "b": "akkupaketti",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "alkali paristo",
+   "b": "alkaliparisto",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "alumiini folio",
+   "b": "alumiinifolio",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "arkisto laatikko",
+   "b": "arkistolaatikko",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "audio kaapeli",
+   "b": "audiokaapeli",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "auto laturi",
+   "b": "autolaturi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "aux kaapeli",
+   "b": "aux-kaapeli",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "avain teline",
+   "b": "avainteline",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "bluetooth kaiutin",
+   "b": "bluetooth-kaiutin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ensiapu laukku",
+   "b": "ensiapulaukku",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ensiapu pakkaus",
+   "b": "ensiapupakkaus",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ethernetkaapeli",
+   "b": "verkkokaapeli",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "grilli folio",
+   "b": "grillifolio",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "haka varoitin",
+   "b": "hakavaroitin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "halogeeni lamppu",
+   "b": "halogeenilamppu",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hammas harja",
+   "b": "hammasharja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hammas lanka",
+   "b": "hammaslanka",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hammas tahna",
+   "b": "hammastahna",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hammas tikku",
+   "b": "hammastikku",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hammasharja muki",
+   "b": "hammasharjamuki",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hammasproteesi harja",
+   "b": "hammasproteesiharja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hammasproteesi tabletti",
+   "b": "hammasproteesitabletti",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hammasproteesiharja",
+   "b": "proteesiharja",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hammasproteesitabletti",
+   "b": "proteesitabletti",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hammasvaliharja",
+   "b": "valiharja",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hauta kynttila",
+   "b": "hautakynttila",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hehku lamppu",
+   "b": "hehkulamppu",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hiekka laatikko",
+   "b": "hiekkalaatikko",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hiiri",
+   "b": "tietokonehiiri",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hiiri matto",
+   "b": "hiirimatto",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hius geeli",
+   "b": "hiusgeeli",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hius harja",
+   "b": "hiusharja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hius lakka",
+   "b": "hiuslakka",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hius naamio",
+   "b": "hiusnaamio",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hius oljy",
+   "b": "hiusoljy",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hius vaha",
+   "b": "hiusvaha",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hiustenhoitoaine",
+   "b": "hoitoaine",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hohka kivi",
+   "b": "hohkakivi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hoito aine",
+   "b": "hoitoaine",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hoito alusta",
+   "b": "hoitoalusta",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hoitoalusta",
+   "b": "vaipanvaihtoalusta",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "housu vaippa",
+   "b": "housuvaippa",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "housuvaippa",
+   "b": "vaippahousut",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "huomio liivi",
+   "b": "huomioliivi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "huuhtelu aine",
+   "b": "huuhteluaine",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "huuhteluaine",
+   "b": "pyykinhuuhteluaine",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "huuli rasva",
+   "b": "huulirasva",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "hylly jarjestaja",
+   "b": "hyllyjarjestaja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ihokarva trimmeri",
+   "b": "ihokarvatrimmeri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ikkuna pesuaine",
+   "b": "ikkunanpesuaine",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ikkunanpesuaine",
+   "b": "ikkunapesuaine",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ilma pallo",
+   "b": "ilmapallo",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "jalka viila",
+   "b": "jalkaviila",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "jalka voide",
+   "b": "jalkavoide",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "jatepussi",
+   "b": "roskapussi",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "johto pidike",
+   "b": "johtopidike",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "joulu koriste",
+   "b": "joulukoriste",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "joulu pallo",
+   "b": "joulupallo",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "joulu valo",
+   "b": "jouluvalo",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "juoma kuppi",
+   "b": "juomakuppi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kaappi jarjestaja",
+   "b": "kaappijarjestaja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kahvi suodatin",
+   "b": "kahvinsuodatin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kalkinpoistaja",
+   "b": "kalkinpoistoaine",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kalkinpoisto aine",
+   "b": "kalkinpoistoaine",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kangas kassi",
+   "b": "kangaskassi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kannettava teline",
+   "b": "kannettavateline",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kannettavateline",
+   "b": "lappariteline",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kasi desi",
+   "b": "kasidesi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kasi laukku",
+   "b": "kasilaukku",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kasi saippua",
+   "b": "kasisaippua",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kasi voide",
+   "b": "kasivoide",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kasidesi",
+   "b": "kasihuuhde",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kaula panta",
+   "b": "kaulapanta",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "keittio puhdistusaine",
+   "b": "keittiopuhdistusaine",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "keittiopaperi",
+   "b": "talouspaperi",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kelmu",
+   "b": "tuorekelmu",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kenka laatikko",
+   "b": "kenkalaatikko",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kenka teline",
+   "b": "kenkateline",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kertakaytto hanska",
+   "b": "kertakayttohanska",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kertakaytto liina",
+   "b": "kertakayttoliina",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kieli kaavin",
+   "b": "kielikaavin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kirje kuori",
+   "b": "kirjekuori",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kirjoitus alusta",
+   "b": "kirjoitusalusta",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kissan hiekka",
+   "b": "kissanhiekka",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kissan ruoka",
+   "b": "kissanruoka",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "klemmari",
+   "b": "paperiliitin",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "koiran ruoka",
+   "b": "koiranruoka",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kori teline",
+   "b": "koriteline",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "korostus kyna",
+   "b": "korostuskyna",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "korostuskyna",
+   "b": "korostustussi",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kortinlukija",
+   "b": "kortti lukija",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kuiva shampoo",
+   "b": "kuivashampoo",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kuivaus teline",
+   "b": "kuivausteline",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kuivausteline",
+   "b": "pyykinkuivausteline",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kuljetus boksi",
+   "b": "kuljetusboksi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kumi nauha",
+   "b": "kuminauha",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kuulakarki kyna",
+   "b": "kuulakarkikyna",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kuulakarkikyna",
+   "b": "kuulakyna",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kuuloke",
+   "b": "kuulokkeet",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kuuloke adapteri",
+   "b": "kuulokeadapteri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kuuloke kotelo",
+   "b": "kuulokekotelo",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kuuloke vahvistin",
+   "b": "kuulokevahvistin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kuulokoje paristo",
+   "b": "kuulokojeparisto",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kuulokojeparisto",
+   "b": "kuulolaiteparisto",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kuulosuojaimet",
+   "b": "kuulosuojain",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kylma laukku",
+   "b": "kylmalaukku",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kylpy lampomittari",
+   "b": "kylpylampomittari",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kylpy suola",
+   "b": "kylpysuola",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kylpyhuone matto",
+   "b": "kylpyhuonematto",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kylpyhuone puhdistusaine",
+   "b": "kylpyhuonepuhdistusaine",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kynsi leikkuri",
+   "b": "kynsileikkuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kynsi sakset",
+   "b": "kynsisakset",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kynsi viila",
+   "b": "kynsiviila",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kynsileikkuri",
+   "b": "kynsileikkurit",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "laatikko jarjestaja",
+   "b": "laatikkojarjestaja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lampo suoja",
+   "b": "lamposuoja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lapparilaukku",
+   "b": "tietokonelaukku",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lataus kaapeli",
+   "b": "latauskaapeli",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "latausjohto",
+   "b": "latauskaapeli",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lattia pesuaine",
+   "b": "lattianpesuaine",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lattianpesuaine",
+   "b": "lattiapesuaine",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lautas liina",
+   "b": "lautasliina",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lautasliina",
+   "b": "servetti",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "led lamppu",
+   "b": "ledlamppu",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "led-lamppu",
+   "b": "ledlamppu",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "leivin paperi",
+   "b": "leivinpaperi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lelu laatikko",
+   "b": "lelulaatikko",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lemmikin peti",
+   "b": "lemmikkipeti",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "liiketunnistin valo",
+   "b": "liiketunnistinvalo",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "liima puikko",
+   "b": "liimapuikko",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "litium paristo",
+   "b": "litiumparisto",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "liuku este",
+   "b": "liukueste",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "loiste putki",
+   "b": "loisteputki",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lyijy kyna",
+   "b": "lyijykyna",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "manikyyri setti",
+   "b": "manikyyrisetti",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "matka adapteri",
+   "b": "matka-adapteri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "matka laukku",
+   "b": "matkalaukku",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "matka lompakko",
+   "b": "matkalompakko",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "matka pullo",
+   "b": "matkapullo",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "matka pussukka",
+   "b": "matkapussukka",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "matka sateenvarjo",
+   "b": "matkasateenvarjo",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "matka tunniste",
+   "b": "matkatunniste",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "matka tyyny",
+   "b": "matkatyyny",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "matkalaukku lukko",
+   "b": "matkalaukkulukko",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "meikki laukku",
+   "b": "meikkilaukku",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "meikki peili",
+   "b": "meikkipeili",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "meikki pussi",
+   "b": "meikkipussi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "mikrofoni kaapeli",
+   "b": "mikrofonikaapeli",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "mikrofoni teline",
+   "b": "mikrofoniteline",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "mikrokuitu liina",
+   "b": "mikrokuituliina",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "muisti lappu",
+   "b": "muistilappu",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "muisti vihko",
+   "b": "muistivihko",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "muistitikku",
+   "b": "usb-muisti",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "muistitikku",
+   "b": "usb-tikku",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "muoto vaahto",
+   "b": "muotovaahto",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "muotoiluvaahto",
+   "b": "muotovaahto",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "muovi laatikko",
+   "b": "muovilaatikko",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "muutto laatikko",
+   "b": "muuttolaatikko",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "naamiais asu",
+   "b": "naamiaisasu",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "nappi kuulokkeet",
+   "b": "nappikuulokkeet",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "nappi paristo",
+   "b": "nappiparisto",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "nayton suoja",
+   "b": "naytonsuoja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "naytonsuoja",
+   "b": "nayttosuoja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "naytto teline",
+   "b": "nayttoteline",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "nena imuri",
+   "b": "nenaimuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "nena liina",
+   "b": "nenaliina",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "nenakarva trimmeri",
+   "b": "nenakarvatrimmeri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "niska tyyny",
+   "b": "niskatyyny",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "olka laukku",
+   "b": "olkalaukku",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ostos kassi",
+   "b": "ostoskassi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "otsa lamppu",
+   "b": "otsalamppu",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pakkaus kuutio",
+   "b": "pakkauskuutio",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "palo varoitin",
+   "b": "palovaroitin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "paperi liitin",
+   "b": "paperiliitin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "paperi nenaliina",
+   "b": "paperinenaliina",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "paperi pyyhe",
+   "b": "paperipyyhe",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "paperi veitsi",
+   "b": "paperiveitsi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "paperireiitin",
+   "b": "reiitin",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "paristo kotelo",
+   "b": "paristokotelo",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "paristo laturi",
+   "b": "paristolaturi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "parranajo geeli",
+   "b": "parranajogeeli",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "parranajo kone",
+   "b": "parranajokone",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "parranajohoyla",
+   "b": "partahoyla",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "parranajokone",
+   "b": "partakone",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "parranajovaahto",
+   "b": "partavaahto",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "parta harja",
+   "b": "partaharja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "parta hoyla",
+   "b": "partahoyla",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "parta kampa",
+   "b": "partakampa",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "parta oljy",
+   "b": "partaoljy",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "parta trimmeri",
+   "b": "partatrimmeri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "parta vaahto",
+   "b": "partavaahto",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pesu neste",
+   "b": "pesuneste",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pesu pussi",
+   "b": "pesupussi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pesu sieni",
+   "b": "pesusieni",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pesupulveri",
+   "b": "pyykkipulveri",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pinsetit",
+   "b": "pinsetti",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "powerbank",
+   "b": "varavirtalahde",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "poyta jarjestaja",
+   "b": "poytajarjestaja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "poyta lamppu",
+   "b": "poytalamppu",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "poytalamppu",
+   "b": "poytavalaisin",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "puhdistus suihke",
+   "b": "puhdistussuihke",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "puhdistusliina",
+   "b": "siivousliina",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "puhdistusspray",
+   "b": "puhdistussuihke",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "puhelimen kuori",
+   "b": "puhelinkuori",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "puhelin pidike",
+   "b": "puhelinpidike",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "puhelin teline",
+   "b": "puhelinteline",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pyyhe koukku",
+   "b": "pyyhekoukku",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pyyhe kumi",
+   "b": "pyyhekumi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pyyhe teline",
+   "b": "pyyheteline",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pyykinpesu aine",
+   "b": "pyykinpesuaine",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pyykki kori",
+   "b": "pyykkikori",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pyykki naru",
+   "b": "pyykkinaru",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pyykki poika",
+   "b": "pyykkipoika",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pyykki pulveri",
+   "b": "pyykkipulveri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pyykki pussi",
+   "b": "pyykkipussi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pyykkikoppa",
+   "b": "pyykkikori",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "raapima puu",
+   "b": "raapimapuu",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "raapimapuu",
+   "b": "raapimispuu",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ranta kassi",
+   "b": "rantakassi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "rantakassi",
+   "b": "rantalaukku",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ripsentaivutin",
+   "b": "ripsien taivutin",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "roska pussi",
+   "b": "roskapussi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ruoka kuppi",
+   "b": "ruokakuppi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ruoka lappu",
+   "b": "ruokalappu",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sahko hammasharja",
+   "b": "sahkohammasharja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sailytys kori",
+   "b": "sailytyskori",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sailytys laatikko",
+   "b": "sailytyslaatikko",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sailytys purkki",
+   "b": "sailytyspurkki",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sailytys pussi",
+   "b": "sailytyspussi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sailytys rasia",
+   "b": "sailytysrasia",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "saippua annostelija",
+   "b": "saippua-annostelija",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "saippua kuppi",
+   "b": "saippuakuppi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sammutus peite",
+   "b": "sammutuspeite",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sanka kuulokkeet",
+   "b": "sankakuulokkeet",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sappi saippua",
+   "b": "sappisaippua",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "seina laturi",
+   "b": "seinalaturi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "seinalaturi",
+   "b": "verkkolaturi",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "selfie-tikku",
+   "b": "selfietikku",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "siivous liina",
+   "b": "siivousliina",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "suihku geeli",
+   "b": "suihkugeeli",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "suihku hylly",
+   "b": "suihkuhylly",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "suihku lasta",
+   "b": "suihkulasta",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "suihku verho",
+   "b": "suihkuverho",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "suodatin paperi",
+   "b": "suodatinpaperi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "suodatin pussi",
+   "b": "suodatinpussi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "suoja kuori",
+   "b": "suojakuori",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "suoja kypara",
+   "b": "suojakypara",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "suoja lasi",
+   "b": "suojalasi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "suoja lasit",
+   "b": "suojalasit",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "suu suihke",
+   "b": "suusuihke",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "suu vesi",
+   "b": "suuvesi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tahranpoistaja",
+   "b": "tahranpoistoaine",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tahranpoisto aine",
+   "b": "tahranpoistoaine",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "talous paperi",
+   "b": "talouspaperi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "talutin",
+   "b": "talutushihna",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tasku lamppu",
+   "b": "taskulamppu",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "telakointi asema",
+   "b": "telakointiasema",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tietokone laukku",
+   "b": "tietokonelaukku",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tiski harja",
+   "b": "tiskiharja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "toiletti laukku",
+   "b": "toilettilaukku",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tuore kelmu",
+   "b": "tuorekelmu",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "turvavyo leikkuri",
+   "b": "turvavyoleikkuri",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tussi",
+   "b": "tussikyna",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tutti pullo",
+   "b": "tuttipullo",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tyhjio pussi",
+   "b": "tyhjiopussi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "tyo valo",
+   "b": "tyovalo",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "uima vaippa",
+   "b": "uimavaippa",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "ulko tuli",
+   "b": "ulkotuli",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "urheilu kassi",
+   "b": "urheilukassi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "usb hubi",
+   "b": "usb-hubi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "usb kaapeli",
+   "b": "usb-kaapeli",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "usb-hubi",
+   "b": "usb-keskitin",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "usb-johto",
+   "b": "usb-kaapeli",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vaate teline",
+   "b": "vaateteline",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vaihto tera",
+   "b": "vaihtotera",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vaippa roskis",
+   "b": "vaipparoskis",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vaipparoskakori",
+   "b": "vaipparoskis",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vakuumi pussi",
+   "b": "vakuumipussi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vali harja",
+   "b": "valiharja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "valo sarja",
+   "b": "valosarja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "varavirtalahde",
+   "b": "virtapankki",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vartalo oljy",
+   "b": "vartalooljy",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vartalo voide",
+   "b": "vartalovoide",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vauvan harja",
+   "b": "vauvanharja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vauvan pyyhe",
+   "b": "vauvanpyyhe",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "verkko kaapeli",
+   "b": "verkkokaapeli",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vessaharja",
+   "b": "wc-harja",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vessapaperi",
+   "b": "wc-paperi",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vessapaperiteline",
+   "b": "wc-paperiteline",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "viikonloppu laukku",
+   "b": "viikonloppulaukku",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "voi paperi",
+   "b": "voipaperi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "vyo laukku",
+   "b": "vyolaukku",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "wc harja",
+   "b": "wc-harja",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "wc paperi",
+   "b": "wc-paperi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "wc rengas",
+   "b": "wc-rengas",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "wc-paperi teline",
+   "b": "wc-paperiteline",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "web-kamera",
+   "b": "webkamera",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "yleis puhdistusaine",
+   "b": "yleispuhdistusaine",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "yleispesuaine",
+   "b": "yleispuhdistusaine",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "yo valo",
+   "b": "yovalo",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.8,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "akkuparisto",
+   "b": "ladattava paristo",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "alumiinifolio",
+   "b": "folio",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "astiaharja",
+   "b": "tiskiharja",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "bluetooth-kaiutin",
+   "b": "bt-kaiutin",
+   "type": "abbreviation",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "deodorantti",
+   "b": "dodo",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "desinfiointiaine",
+   "b": "desinfioiva aine",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "heijastinliivi",
+   "b": "huomioliivi",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "induktiolaturi",
+   "b": "langaton laturi",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "korvanappikuulokkeet",
+   "b": "nappikuulokkeet",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kosmetiikkalaukku",
+   "b": "meikkilaukku",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kosteusliina",
+   "b": "kosteuspyyhe",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kuljetusboksi",
+   "b": "kuljetusboxi",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "kylpparimatto",
+   "b": "kylpyhuonematto",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "lokerikko",
+   "b": "lokerojarjestaja",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "mappi",
+   "b": "rengaskansio",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "matka-adapteri",
+   "b": "matkavirtasovitin",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "matkalaukkukuutio",
+   "b": "pakkauskuutio",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "muffinivuoka",
+   "b": "muffinssi vuoka",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "muistikirja",
+   "b": "muistivihko",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "nappiparisto",
+   "b": "nappipatteri",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "nitoja",
+   "b": "nitojakone",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "paasiainen koriste",
+   "b": "paasiaiskoriste",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "parranajokone",
+   "b": "sheiveri",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pyykinpesuaine",
+   "b": "pyykkiaine",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "pyykkinipsu",
+   "b": "pyykkipoika",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "reppu",
+   "b": "selkareppu",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "sampoo",
+   "b": "shampoo",
+   "type": "variant",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "telakka",
+   "b": "telakointiasema",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "toilettilaukku",
+   "b": "toilettipussi",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.74,
+   "votes": 1,
+   "critic": 1.0
+  },
+  {
+   "a": "nettikamera",
+   "b": "webkamera",
+   "type": "synonym",
+   "dir": "both",
+   "conf": 0.68,
+   "votes": 1,
+   "critic": 1.0
+  }
+ ]
+}

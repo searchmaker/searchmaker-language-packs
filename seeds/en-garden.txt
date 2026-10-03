@@ -1,0 +1,280 @@
+lawnmower
+push mower
+self-propelled mower
+riding mower
+robot mower
+reel mower
+rotary mower
+mulching mower
+electric mower
+cordless mower
+petrol mower
+lawn tractor
+string trimmer
+line trimmer
+weed trimmer
+edge trimmer
+cordless trimmer
+electric trimmer
+petrol trimmer
+trimmer line
+trimmer head
+edger
+brush trimmer
+grass trimmer
+brush cutter
+clearing saw
+brushcutter blade
+brushcutter head
+petrol brushcutter
+cordless brushcutter
+harness
+cutting blade
+nylon line
+blade guard
+loop handle
+bike handle
+chainsaw
+cordless chainsaw
+electric chainsaw
+petrol chainsaw
+pole saw
+pruning chainsaw
+chainsaw chain
+guide bar
+chain oil
+chain sharpener
+chain file
+bar cover
+leaf blower
+leaf vacuum
+blower vacuum
+cordless blower
+electric blower
+petrol blower
+backpack blower
+blower tube
+flat nozzle
+round nozzle
+collection bag
+gutter nozzle
+hedge trimmer
+hedge cutter
+shrub shear
+grass shear
+trimmer blade
+clippings catcher
+log splitter
+wood splitter
+horizontal splitter
+vertical splitter
+hydraulic splitter
+splitting wedge
+four-way wedge
+log cradle
+log lift
+kindling splitter
+wood chipper
+garden shredder
+wood shredder
+branch chipper
+electric chipper
+petrol chipper
+drum chipper
+disc chipper
+chipper blade
+hopper
+feed chute
+garden tiller
+cultivator
+rototiller
+mini tiller
+electric tiller
+cordless tiller
+petrol tiller
+soil cultivator
+tiller tine
+cultivator tine
+furrower
+ridger
+scarifier
+lawn scarifier
+dethatcher
+lawn aerator
+electric scarifier
+cordless scarifier
+petrol scarifier
+scarifier blade
+dethatching rake
+aerator roller
+scarifier roller
+pressure washer
+surface cleaner
+patio cleaner
+turbo nozzle
+foam cannon
+spray gun
+pressure hose
+extension lance
+wash brush
+pressure sprayer
+hand sprayer
+backpack sprayer
+pump sprayer
+battery sprayer
+garden sprayer
+plant mister
+spray bottle
+spray lance
+weed sprayer
+foam sprayer
+trigger sprayer
+irrigation system
+drip irrigation
+sprinkler system
+irrigation timer
+watering timer
+drip line
+soaker hose
+micro irrigation
+irrigation controller
+irrigation valve
+hose splitter
+irrigation kit
+garden hose
+expandable hose
+flat hose
+coil hose
+suction hose
+hose reel
+hose cart
+hose hanger
+hose connector
+hose coupling
+hose clamp
+watering can
+watering wand
+hose nozzle
+spray nozzle
+watering lance
+sprinkler
+oscillating sprinkler
+impact sprinkler
+rotary sprinkler
+pulsating sprinkler
+rose attachment
+spade
+shovel
+garden fork
+rake
+hoe
+hand trowel
+hand fork
+weed puller
+soil scoop
+garden claw
+bulb planter
+pruning shears
+secateurs
+loppers
+pruning saw
+pole pruner
+anvil pruner
+bypass pruner
+garden scissors
+hedge shears
+branch saw
+folding saw
+pruning knife
+axe
+splitting axe
+felling axe
+hatchet
+splitting maul
+forest axe
+hand axe
+wood grenade
+felling wedge
+log hook
+pickaroon
+wheelbarrow
+garden cart
+dump cart
+yard cart
+folding cart
+two-wheel barrow
+wheelbarrow wheel
+wheelbarrow tyre
+wheelbarrow tray
+replacement handles
+hand trolley
+utility cart
+planter
+plant pot
+flowerpot
+window box
+raised bed
+grow bag
+hanging basket
+plant trough
+nursery pot
+seed tray
+plant saucer
+self-watering pot
+greenhouse
+polycarbonate greenhouse
+glass greenhouse
+lean-to greenhouse
+mini greenhouse
+walk-in greenhouse
+cold frame
+polytunnel
+greenhouse heater
+greenhouse shelving
+greenhouse film
+garden chair
+patio chair
+garden table
+patio table
+garden bench
+sun lounger
+outdoor sofa
+bistro set
+patio set
+garden stool
+hammock chair
+porch swing
+barbecue
+gas grill
+charcoal grill
+electric grill
+kettle grill
+tabletop grill
+smoker
+barbecue grate
+griddle plate
+grill tongs
+grill brush
+grill cover
+outdoor light
+garden light
+path light
+wall light
+solar light
+ground light
+bollard light
+string lights
+floodlight
+patio light
+garden lantern
+motion light
+snow shovel
+snow pusher
+snow blower
+ice scraper
+snow brush
+salt spreader
+snow rake
+ice chopper
+snow scoop
+grit spreader

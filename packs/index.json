@@ -1,0 +1,186 @@
+{
+ "format": 1,
+ "license": "CC-BY-4.0",
+ "packs": [
+  {
+   "lang": "de",
+   "vertical": "garden",
+   "file": "de/garden.json",
+   "pairs": 486,
+   "version": "2026-10-03",
+   "native_speaker_checked": false,
+   "reviewed_by": null
+  },
+  {
+   "lang": "de",
+   "vertical": "general",
+   "file": "de/general.json",
+   "pairs": 478,
+   "version": "2026-10-03",
+   "native_speaker_checked": false,
+   "reviewed_by": null
+  },
+  {
+   "lang": "de",
+   "vertical": "home",
+   "file": "de/home.json",
+   "pairs": 445,
+   "version": "2026-10-03",
+   "native_speaker_checked": false,
+   "reviewed_by": null
+  },
+  {
+   "lang": "de",
+   "vertical": "tools",
+   "file": "de/tools.json",
+   "pairs": 477,
+   "version": "2026-10-03",
+   "native_speaker_checked": false,
+   "reviewed_by": null
+  },
+  {
+   "lang": "en",
+   "vertical": "garden",
+   "file": "en/garden.json",
+   "pairs": 369,
+   "version": "2026-10-03",
+   "native_speaker_checked": false,
+   "reviewed_by": null
+  },
+  {
+   "lang": "en",
+   "vertical": "general",
+   "file": "en/general.json",
+   "pairs": 377,
+   "version": "2026-10-03",
+   "native_speaker_checked": false,
+   "reviewed_by": null
+  },
+  {
+   "lang": "en",
+   "vertical": "home",
+   "file": "en/home.json",
+   "pairs": 391,
+   "version": "2026-10-03",
+   "native_speaker_checked": false,
+   "reviewed_by": null
+  },
+  {
+   "lang": "en",
+   "vertical": "tools",
+   "file": "en/tools.json",
+   "pairs": 366,
+   "version": "2026-10-03",
+   "native_speaker_checked": false,
+   "reviewed_by": null
+  },
+  {
+   "lang": "et",
+   "vertical": "garden",
+   "file": "et/garden.json",
+   "pairs": 468,
+   "version": "2026-10-03",
+   "native_speaker_checked": false,
+   "reviewed_by": null
+  },
+  {
+   "lang": "et",
+   "vertical": "general",
+   "file": "et/general.json",
+   "pairs": 297,
+   "version": "2026-10-03",
+   "native_speaker_checked": false,
+   "reviewed_by": null
+  },
+  {
+   "lang": "et",
+   "vertical": "home",
+   "file": "et/home.json",
+   "pairs": 197,
+   "version": "2026-10-03",
+   "native_speaker_checked": false,
+   "reviewed_by": null
+  },
+  {
+   "lang": "et",
+   "vertical": "tools",
+   "file": "et/tools.json",
+   "pairs": 212,
+   "version": "2026-10-03",
+   "native_speaker_checked": false,
+   "reviewed_by": null
+  },
+  {
+   "lang": "fi",
+   "vertical": "garden",
+   "file": "fi/garden.json",
+   "pairs": 328,
+   "version": "2026-10-03",
+   "native_speaker_checked": false,
+   "reviewed_by": null
+  },
+  {
+   "lang": "fi",
+   "vertical": "general",
+   "file": "fi/general.json",
+   "pairs": 334,
+   "version": "2026-10-03",
+   "native_speaker_checked": false,
+   "reviewed_by": null
+  },
+  {
+   "lang": "fi",
+   "vertical": "home",
+   "file": "fi/home.json",
+   "pairs": 308,
+   "version": "2026-10-03",
+   "native_speaker_checked": false,
+   "reviewed_by": null
+  },
+  {
+   "lang": "fi",
+   "vertical": "tools",
+   "file": "fi/tools.json",
+   "pairs": 363,
+   "version": "2026-10-03",
+   "native_speaker_checked": false,
+   "reviewed_by": null
+  },
+  {
+   "lang": "sv",
+   "vertical": "garden",
+   "file": "sv/garden.json",
+   "pairs": 220,
+   "version": "2026-10-03",
+   "native_speaker_checked": false,
+   "reviewed_by": null
+  },
+  {
+   "lang": "sv",
+   "vertical": "general",
+   "file": "sv/general.json",
+   "pairs": 179,
+   "version": "2026-10-03",
+   "native_speaker_checked": false,
+   "reviewed_by": null
+  },
+  {
+   "lang": "sv",
+   "vertical": "home",
+   "file": "sv/home.json",
+   "pairs": 161,
+   "version": "2026-10-03",
+   "native_speaker_checked": false,
+   "reviewed_by": null
+  },
+  {
+   "lang": "sv",
+   "vertical": "tools",
+   "file": "sv/tools.json",
+   "pairs": 197,
+   "version": "2026-10-03",
+   "native_speaker_checked": false,
+   "reviewed_by": null
+  }
+ ]
+}

@@ -1,0 +1,289 @@
+sofa
+sectional sofa
+sofa bed
+loveseat
+three-seater sofa
+modular sofa
+leather sofa
+fabric sofa
+chaise longue
+recliner sofa
+corner sofa
+ottoman
+chair
+dining chair
+armchair
+folding chair
+rocking chair
+bar stool
+office chair
+lounge chair
+kids chair
+high chair
+swivel chair
+accent chair
+table
+dining table
+coffee table
+side table
+desk
+console table
+bar table
+folding table
+extendable table
+bedside table
+nesting table
+bistro table
+bed
+single bed
+double bed
+bunk bed
+loft bed
+storage bed
+upholstered bed
+metal bed
+wooden bed
+kids bed
+guest bed
+folding bed
+mattress
+spring mattress
+latex mattress
+foam mattress
+kids mattress
+folding mattress
+futon mattress
+mattress topper
+mattress pad
+mattress protector
+wardrobe
+sideboard
+highboard
+lowboard
+display cabinet
+shoe cabinet
+hall cabinet
+filing cabinet
+bedside cabinet
+storage chest
+wall unit
+shelf
+wall shelf
+bookcase
+modular shelving
+garage shelving
+heavy-duty shelf
+corner shelf
+ladder shelf
+freestanding shelf
+floating shelf
+shelf board
+cube shelf
+rug
+runner rug
+shag rug
+low-pile rug
+oriental rug
+kids rug
+outdoor rug
+bath mat
+door mat
+carpet tile
+sheepskin rug
+rug pad
+curtain
+sheer curtain
+blackout curtain
+eyelet curtain
+tab-top curtain
+cafe curtain
+panel curtain
+shower curtain
+door curtain
+curtain track
+curtain rod
+curtain tieback
+roller blind
+blackout blind
+day-night blind
+roman blind
+pleated blind
+venetian blind
+vertical blind
+bamboo blind
+thermal blind
+roof blind
+clip-on blind
+privacy blind
+duvet
+pillow
+bed linen
+fitted sheet
+flat sheet
+pillowcase
+duvet cover
+bedspread
+throw blanket
+weighted blanket
+hand towel
+bath towel
+bath sheet
+guest towel
+washcloth
+bathrobe
+sauna towel
+hair towel
+towel set
+beach towel
+hammam towel
+vase
+candle holder
+picture frame
+wall clock
+figurine
+candle
+artificial plant
+decorative bowl
+lantern
+wall art
+photo holder
+throw pillow
+mirror
+wall mirror
+floor mirror
+full-length mirror
+vanity mirror
+bathroom mirror
+table mirror
+makeup mirror
+beveled mirror
+mirror cabinet
+mirror tile
+framed mirror
+table lamp
+floor lamp
+ceiling light
+pendant light
+wall light
+bedside lamp
+reading lamp
+arc lamp
+clip lamp
+desk lamp
+spotlight
+lampshade
+saucepan
+frying pan
+stockpot
+sauté pan
+wok
+Dutch oven
+casserole pot
+milk pan
+grill pan
+steamer pot
+roasting pan
+cookware set
+baking tray
+springform pan
+loaf tin
+muffin tin
+casserole dish
+tart pan
+cake tin
+pizza tray
+oven rack
+baking mat
+cookie sheet
+pie dish
+spatula
+wooden spoon
+whisk
+kitchen tongs
+ladle
+slotted spoon
+potato masher
+peeler
+can opener
+bottle opener
+kitchen scissors
+grater
+dinner plate
+side plate
+bowl
+mug
+cup
+drinking glass
+wine glass
+cutlery
+knife
+fork
+spoon
+serving platter
+food container
+lunch box
+spice jar
+mason jar
+storage jar
+cereal container
+coffee canister
+tea canister
+bread bin
+kitchen organizer
+cutlery tray
+fridge organizer
+coffee maker
+espresso machine
+capsule machine
+bean-to-cup machine
+percolator
+moka pot
+French press
+milk frother
+coffee grinder
+kettle
+electric kettle
+glass kettle
+travel kettle
+variable-temperature kettle
+tea maker
+stovetop kettle
+whistling kettle
+tea kettle
+immersion heater
+toaster
+long-slot toaster
+two-slice toaster
+four-slice toaster
+sandwich toaster
+panini press
+toaster oven
+warming rack
+toast tongs
+waffle maker
+contact grill
+bagel toaster
+vacuum cleaner
+upright vacuum
+canister vacuum
+cordless vacuum
+handheld vacuum
+robot vacuum
+wet-dry vacuum
+carpet cleaner
+ash vacuum
+window vacuum
+vacuum bag
+vacuum filter
+refrigerator
+freezer
+chest freezer
+washing machine
+tumble dryer
+dishwasher
+oven
+cooker
+hob
+range hood
+microwave
+wine cooler

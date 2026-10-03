@@ -1,0 +1,1014 @@
+{
+ "format": 1,
+ "note": "pairs rejected in model review; filter these out when regenerating",
+ "pairs": [
+  {
+   "lang": "fi",
+   "vertical": "electrical",
+   "a": "jatkojohto",
+   "b": "piuhajohdin",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "electrical",
+   "a": "pistorasiakasetta",
+   "b": "pistorasialaatikko",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "electrical",
+   "a": "integroitu led",
+   "b": "integroitu led-valaisin",
+   "type": "variant",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "electrical",
+   "a": "kelvin",
+   "b": "varilampotila",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "electrical",
+   "a": "kytkinsarja",
+   "b": "valokytkin sarja",
+   "type": "variant",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "electrical",
+   "a": "musta kytkin",
+   "b": "valokytkin musta",
+   "type": "variant",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "electrical",
+   "a": "valkoinen kytkin",
+   "b": "valokytkin valkoinen",
+   "type": "variant",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "electrical",
+   "a": "alylamppu",
+   "b": "led-alylamppu",
+   "type": "variant",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "electrical",
+   "a": "kupu-lamppu",
+   "b": "kupuvalaisin",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "electrical",
+   "a": "kytkin harmaa",
+   "b": "valokytkin harmaa",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "electrical",
+   "a": "savy",
+   "b": "varisavy",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "electrical",
+   "a": "pallo-lamppu",
+   "b": "pyorea lamppu",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "electrical",
+   "a": "kaapeli",
+   "b": "sahkojohto",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "electrical",
+   "a": "pienlamppu",
+   "b": "smalamppu",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "garden",
+   "a": "ketju",
+   "b": "teraketju",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "garden",
+   "a": "leikkuutera",
+   "b": "ruohonleikkurin tera",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "garden",
+   "a": "pensasaiden leikkuu",
+   "b": "pensasleikkuu",
+   "type": "variant",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "garden",
+   "a": "puutarhakasetti",
+   "b": "puutarhasetti",
+   "type": "variant",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "garden",
+   "a": "ruohonleikkurin terasetti",
+   "b": "terasarja",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "garden",
+   "a": "leikkuutarvikkeet",
+   "b": "ruohonleikkuu tarvikkeet",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "garden",
+   "a": "latauri",
+   "b": "ruohonleikkurin lature",
+   "type": "misspelling",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "garden",
+   "a": "leikkuutera",
+   "b": "ruohonleikkuun tera",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "garden",
+   "a": "akkukayttoinen leikkuri",
+   "b": "ruohonleikkuri",
+   "type": "variant",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "garden",
+   "a": "akkulaturi",
+   "b": "ruohonleikkurin lature",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "garden",
+   "a": "akkupensasleikkuri",
+   "b": "akkuperusteinen pensasleikkuri",
+   "type": "variant",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "garden",
+   "a": "laturi",
+   "b": "ruohonleikkurin lature",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "garden",
+   "a": "lehtien leikkaus",
+   "b": "lehtien leikkuu",
+   "type": "variant",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "garden",
+   "a": "ruohonleikkurin varaosat",
+   "b": "ruohonleikkuun varaosat",
+   "type": "variant",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "garden",
+   "a": "akkukayttoinen moottorisaha",
+   "b": "akkusaha",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "garden",
+   "a": "leikkuukoneen varaosat",
+   "b": "leikkuulaiteen varaosat",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "garden",
+   "a": "ruohonleikkuri tarvikkeet",
+   "b": "ruohonleikkuu tarvikkeet",
+   "type": "variant",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "general",
+   "a": "keittiotarvikkeet",
+   "b": "keittiotyovalineet",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "general",
+   "a": "kuorimaveitsi",
+   "b": "perunakuorimaveitsi",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "general",
+   "a": "leivontatarvikkeet",
+   "b": "leivontavaline",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "general",
+   "a": "paistinpannu",
+   "b": "pannu",
+   "type": "abbreviation",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "general",
+   "a": "maustepurkit",
+   "b": "maustesarja",
+   "type": "variant",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "general",
+   "a": "oljyannostelija",
+   "b": "oljypullo",
+   "type": "variant",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "general",
+   "a": "kuorimaveitsi",
+   "b": "perunakuorija",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "general",
+   "a": "leikkuualusta",
+   "b": "leikkuulauta",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "general",
+   "a": "leivontatarvikkeet",
+   "b": "leivontavalineet",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "general",
+   "a": "paistinpannu",
+   "b": "pannu",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "general",
+   "a": "patjassuoja",
+   "b": "vuodinsuoja",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "general",
+   "a": "perunakuorija",
+   "b": "perunakuorimaveitsi",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "general",
+   "a": "kokkinveitsi",
+   "b": "pilkkomisveitsi",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "home",
+   "a": "koristetyyny",
+   "b": "sohvatyyny koristetyyny",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "home",
+   "a": "koristetyynyt",
+   "b": "sohvatyynyt",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "home",
+   "a": "mukava sohva",
+   "b": "pehmea sohva",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "home",
+   "a": "nukkasohva",
+   "b": "vuodesohva",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "home",
+   "a": "pieni sohva",
+   "b": "pienikokoinen sohva",
+   "type": "variant",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "home",
+   "a": "pino-poyta",
+   "b": "pinottava poyta",
+   "type": "variant",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "home",
+   "a": "pino-poyta",
+   "b": "pinottavat poydat",
+   "type": "variant",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "home",
+   "a": "sivupoydat",
+   "b": "sivupoyta sarja",
+   "type": "variant",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "home",
+   "a": "sohvapoydat",
+   "b": "sohvapoyta setti",
+   "type": "variant",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "home",
+   "a": "kyljettava sohva",
+   "b": "vuodesohva",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "home",
+   "a": "luonnonpuu",
+   "b": "massiivipuu",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "home",
+   "a": "poytasetti",
+   "b": "sohvapoyta setti",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "home",
+   "a": "koristetyyny",
+   "b": "sohvatyyny",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "home",
+   "a": "metallipoyta",
+   "b": "sohvapoyta metalli",
+   "type": "variant",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "home",
+   "a": "poytasetti",
+   "b": "sivupoyta sarja",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "home",
+   "a": "kaksinkertainen sohva",
+   "b": "parisohva",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "home",
+   "a": "sohvatyyny",
+   "b": "sohvatyyny koristetyyny",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "home",
+   "a": "sohvatyyny setti",
+   "b": "tyynysetti",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "home",
+   "a": "luonnonkivi",
+   "b": "luonnonkivitaso",
+   "type": "variant",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "home",
+   "a": "pohjoismainen sohva",
+   "b": "skandinaavi sohva",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "safety",
+   "a": "kestavat tyokengat",
+   "b": "tyokengat kestava",
+   "type": "variant",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "safety",
+   "a": "kevlar-kengat",
+   "b": "tyokengat kevlar",
+   "type": "variant",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "safety",
+   "a": "nahkakengat",
+   "b": "tyokengat nahka",
+   "type": "variant",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "safety",
+   "a": "polyesterikengat",
+   "b": "tyokengat polyesteri",
+   "type": "variant",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "safety",
+   "a": "suojakengat",
+   "b": "tyokengat suojatut",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "safety",
+   "a": "tyohousut",
+   "b": "tyovaatetus housut",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "safety",
+   "a": "ergonomiset tyokengat",
+   "b": "tyokengat mukavuus",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "safety",
+   "a": "turvakenka",
+   "b": "tyokengat",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "safety",
+   "a": "saappaat",
+   "b": "suojasaappaat",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "safety",
+   "a": "hengittava liivi",
+   "b": "verkko-liivi",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "safety",
+   "a": "huomioliivi taskuilla",
+   "b": "tyoliivi taskuilla",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "safety",
+   "a": "lampimat tyokengat",
+   "b": "tyokengat talvikayttoon",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "safety",
+   "a": "pehmeat tyokengat",
+   "b": "tyokengat mukavuus",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "safety",
+   "a": "nahkaturvaskengat",
+   "b": "turvakenkat nahka",
+   "type": "variant",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "safety",
+   "a": "suojakengat",
+   "b": "tyokengat suojakarkivalu",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "safety",
+   "a": "talvikengat",
+   "b": "tyokengat talvikayttoon",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "tools",
+   "a": "akkupulttipukki",
+   "b": "akkupulttivaantaja",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "tools",
+   "a": "akkulaturi",
+   "b": "akkuporakoneen laturi",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "tools",
+   "a": "akkuporakoneen lisavarusteet",
+   "b": "porakoneen tarvikkeet",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "tools",
+   "a": "akkuporakoneen terasarja",
+   "b": "poranterasarja",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "tools",
+   "a": "kehasaha",
+   "b": "pyorosaha",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "tools",
+   "a": "akkupatteri",
+   "b": "akkuporakoneen akku",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "tools",
+   "a": "iskuporakone",
+   "b": "vasaraporakone",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "tools",
+   "a": "istukka",
+   "b": "porakoneen hylsy",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "tools",
+   "a": "akkujen lataus",
+   "b": "akkuporakoneen lataus",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "garden",
+   "a": "jyrsin",
+   "b": "puutarhajyrsin",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "garden",
+   "a": "oksasilppuri",
+   "b": "puutarhasilppuri",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "garden",
+   "a": "ruohotrimmeri",
+   "b": "trimmeri",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "garden",
+   "a": "siimaleikkuri",
+   "b": "trimmeri",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "garden",
+   "a": "alasinoksasakset",
+   "b": "alasinsakset",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "garden",
+   "a": "vaahdotin",
+   "b": "vaahtosuutin",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "garden",
+   "a": "ilmaaja",
+   "b": "nurmikkoilmaaja",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "garden",
+   "a": "ilmaaja",
+   "b": "nurmikonilmaaja",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "garden",
+   "a": "klapikone",
+   "b": "klapikoneikko",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "garden",
+   "a": "laippa",
+   "b": "sahanlaippa",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "garden",
+   "a": "latvasaha",
+   "b": "teleskooppioksasaha",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "garden",
+   "a": "latvasakset",
+   "b": "teleskooppioksasakset",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "garden",
+   "a": "oksaleikkuri",
+   "b": "oksasakset",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "general",
+   "a": "nenaliina",
+   "b": "paperinenaliina",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "general",
+   "a": "kumilenkki",
+   "b": "kuminauha",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "general",
+   "a": "kynanteroitin",
+   "b": "teroitin",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "general",
+   "a": "matkalaukkutunniste",
+   "b": "matkatunniste",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "general",
+   "a": "kahvinsuodatin",
+   "b": "suodatinpussi",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "general",
+   "a": "kumi",
+   "b": "pyyhekumi",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "general",
+   "a": "matkatyyny",
+   "b": "niskatyyny",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "general",
+   "a": "niitti",
+   "b": "nitojanniitti",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "general",
+   "a": "vessanrengas",
+   "b": "wc-rengas",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "general",
+   "a": "akku",
+   "b": "ladattava paristo",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "general",
+   "a": "lamppu",
+   "b": "valaisin",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "home",
+   "a": "kirjoituspoyta",
+   "b": "tyopoyta",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "home",
+   "a": "laatikosto",
+   "b": "lipasto",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "home",
+   "a": "aterimet",
+   "b": "ruokailuvalineet",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "home",
+   "a": "kuvakehys",
+   "b": "valokuvakehys",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "home",
+   "a": "olohuonepoyta",
+   "b": "sohvapoyta",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "home",
+   "a": "keitinkannu",
+   "b": "vedenkeitin",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "tools",
+   "a": "iskuvaannin",
+   "b": "mutterinvaannin",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "tools",
+   "a": "katkaisusaha",
+   "b": "katkaisusirkkeli",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "tools",
+   "a": "timanttipora",
+   "b": "timanttiporakone",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "tools",
+   "a": "ydinpora",
+   "b": "ydinporakone",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "tools",
+   "a": "dyckertnaulain",
+   "b": "viimeistelynaulain",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "tools",
+   "a": "porakone",
+   "b": "sahkopora",
+   "type": "synonym",
+   "by": "ChatGPT"
+  },
+  {
+   "lang": "fi",
+   "vertical": "tools",
+   "a": "pyorosaha",
+   "b": "sirkkeli",
+   "type": "synonym",
+   "by": "ChatGPT"
+  }
+ ]
+}
