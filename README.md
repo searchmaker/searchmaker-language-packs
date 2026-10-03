@@ -10,7 +10,7 @@ plugin, but plain JSON that any search system can use. 6,653 term pairs across 2
 
 | Language | Code | Packs | Pairs | Review status |
 |---|---|---|---|---|
-| Finnish | `fi` | 4 | 1,333 | generated, unreviewed |
+| Finnish | `fi` | 4 | 1,333 | model-reviewed (ChatGPT), not native-reviewed |
 | English | `en` | 4 | 1,503 | generated, unreviewed |
 | Swedish | `sv` | 4 | 757 | generated, unreviewed |
 | German | `de` | 4 | 1,886 | generated, unreviewed |
@@ -54,7 +54,7 @@ are far more reliable).
 [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE). You may use, modify and redistribute the data, including commercially,
 if you give credit. Suggested credit line:
 
-> Synonym data from Searchmaker Language Packs (searchmaker-language-packs), licensed CC BY 4.0.
+> Synonym data from [Searchmaker Language Packs](https://github.com/searchmaker/searchmaker-language-packs), licensed CC BY 4.0.
 
 Each pack carries `"license": "CC-BY-4.0"` so the notice travels with the file. The data comes with no warranty.
 

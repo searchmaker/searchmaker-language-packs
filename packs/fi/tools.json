@@ -22,7 +22,8 @@
  },
  "review": {
   "native_speaker_checked": false,
-  "note": "Generated data. Review before shipping."
+  "reviewed_by": "ChatGPT",
+  "note": "Model-reviewed: pairs rejected in review are excluded via the denylist. Not native-speaker-reviewed."
  },
  "dropped": {
   "denylist": 7,
